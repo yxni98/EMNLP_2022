@@ -1,0 +1,138 @@
+# main links
+main:
+
+  #- title: "Schedule"
+  #  url: /schedule/
+
+  #- title: "LiveCaptions"
+  #  url: /captions/
+
+  #- title: "Virtual Conference Website"
+  #  url: "https://underline.io/events/122/reception"
+
+  #- title: "Program"
+  #  url: /program/
+
+  #- title: "Blog"
+  #  url: /blog/
+
+  #- title: "Participants Info"
+  #  url: /participants/presenters/
+
+  #- title: "Sponsors"
+  #  url: /sponsors/
+
+  - title: "Registration"
+    url: /404/
+
+  - title: "Calls"
+    url: /404/
+
+  #- title: "Ethics"
+  #  url: /ethics/faq/
+
+  #- title: "Reviewer"
+  #  url: /reviewer/instructions/
+
+  #- title: "FAQ"
+  #  url: /faq/
+
+  - title: "Committees"
+    url: /organization
+
+
+program:
+  - title: Program Details
+    children:
+      - title: "Conference Program"
+        url: /program/
+      - title: "Keynote Speakers"
+        url: /program/keynotes/
+      - title: "Tutorials"
+        url: /program/tutorials/
+      - title: "Workshops"
+        url: /program/workshops/
+      - title: "Accepted Papers"
+        url: /program/accepted/
+      - title: "Social Programs"
+        url: /program/social/
+#       - title: "Careers in NLP Panel"
+#         url: /program/careerspanel/
+
+# sponsors:
+#   - title: Sponsors
+#     children:
+#       - title: "Booklet: Rates &amp; Benefits"
+#         url: /sponsors/booklet/
+#      - title: "List of Sponsors"
+#        url: /sponsors/list/
+
+calls:
+  - title: Call for
+    children:
+      - title: "Main Conference Papers"
+        url: /calls/papers/
+      - title: "Industry Track Papers"
+        url: /calls/industry/
+      - title: "System Demonstrations"
+        url: /calls/demos/
+      - title: "Student Research Workshop"
+        url: https://naacl2021-srw.github.io/
+  - title: Submission Material
+    children:
+      - title: "Area Descriptions"
+        url: /calls/area-descriptions/
+      - title: "Style Files and Formatting"
+        url: /calls/style-and-formatting/
+      - title: "Reproducibility Checklist"
+        url: /calls/reproducibility-checklist/
+  - title: Archived calls
+    children:
+      - title: "First Call for Papers"
+        url: /calls/papers/first/
+      - title: "Preliminary Call for Papers"
+        url: /calls/papers/prelim/
+
+ethics:
+  - title: Ethics
+    children:
+      - title: "Ethics FAQ"
+        url: /ethics/faq/
+      - title: "Ethics Review Questions"
+        url: /ethics/review-questions/
+      - title: "Ethics Committee"
+        url: /ethics/committee/
+
+reviewer:
+  - title: Reviewer
+    children:
+      - title: "Reviewer Instructions"
+        url: /reviewer/instructions/
+      - title: "Example Review Form"
+        url: /downloads/NAACL2021-Review-Form.pdf
+      - title: "Reviewing Advice"
+        url: /reviewer/advice/
+
+participants:
+  - title: "Information for Participants"
+    children:
+      - title: "Instructions for Paper Presenters"
+        url: /participants/presenters/
+      - title: "Instructions for Zoom Rooms"
+        url: /participants/zoom-rooms/
+      # - title: "Accommodation"
+      #   url: /participants/accommodation/
+      # - title: "Social Event"
+      #   url: /participants/social/
+
+committees:
+  - title: Committees
+    children:
+      - title: "Organizing Committee"
+        url: /organization/
+      #- title: "Senior Program Committee"
+      #  url: /committees/program/
+      #- title: "Ethics Committee"
+      #  url: /ethics/committee/
+      #- title: "Diversity & Inclusion Committee"
+      #  url: /committees/diversity-inclusion/
