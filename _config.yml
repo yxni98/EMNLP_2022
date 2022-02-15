@@ -20,10 +20,10 @@ locale                   : "en-US"
 title                    : "emnlp 2022"
 title_separator          : "-"
 name                     : "emnlp"
-description              : "Official website for the 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies"
-url                      : "https://iuliaturc-google.github.io/naacl-org/naacl-2021-website" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "Official website for the 2022 Conference on Empirical Methods in Natural Language Processing"
+url                      : "https://github.com/yxni98/EMNLP_2022" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "naacl-org/naacl-2021-website" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : #"naacl-org/naacl-2021-website" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logos/acl-logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "EMNLP 2022" # overrides the website title displayed in the masthead, use " " for no title
@@ -32,12 +32,12 @@ words_per_minute         : 200
 comments:
   provider               : "disqus"
   disqus:
-    shortname            : "naacl2021"
+    shortname            : "emnlp2022"
 reCaptcha:
   siteKey                :
   secret                 :
 atom_feed:
-  path                   : # blank (default) uses feed.xml
+  path                   : _pages/home.md # blank (default) uses feed.xml
 search                   : true
 search_full_content      : # true, false (default)
 search_provider          : "google"
@@ -57,9 +57,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : naaclhlt
+  username               : emnlp2022
 facebook:
-  username               : naaclhlt
+  username               : emnlp2022
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -110,13 +110,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: https://twitter.com/naaclhlt
+      url: https://twitter.com/emnlp2022
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: https://www.facebook.com/naaclhlt
+      url: https://www.facebook.com/emnlp2022
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: https://github.com/naacl-org/naacl-2021-website
+      url: https://github.com/yxni98/EMNLP_2022
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
