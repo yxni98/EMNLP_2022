@@ -1,7 +1,7 @@
 ---
 title: Organizing Committee
 layout: single
-excerpt: "NAACL 2021 organizing committee."
+excerpt: "EMNLP 2022 organizing committee."
 permalink: /organization/
 sidebar: 
     nav: "committees"
@@ -13,6 +13,7 @@ sidebar:
    picture="/assets/images/committee/books.jpeg"
    site=" "
    institution=" "
+   email = "nasmith@cs.washington.edu"
 %}
 
 <h2>Program Chairs </h2>
@@ -21,6 +22,7 @@ sidebar:
    picture="/assets/images/committee/books.jpeg"
    site=""
    institution=""
+   email = "yoav.goldberg@gmail.com"
 %}
 
 {% include committee-member.html
@@ -28,6 +30,7 @@ sidebar:
    picture="/assets/images/committee/books.jpeg"
    site=""
    institution=""
+   email = "zkozareva@gmail.com"
 %}
 
 {% include committee-member.html
@@ -35,6 +38,7 @@ sidebar:
    picture="/assets/images/committee/books.jpeg"
    site=""
    institution=""
+   email = "yue.zhang@wias.org.cn"
 %}
 
 <h2>Industry Track Chairs </h2>
@@ -43,6 +47,7 @@ sidebar:
    picture="/assets/images/committee/books.jpeg"
    site=""
    institution=""
+   email = "angeliki@google.com"
 %}
 
 {% include committee-member.html
@@ -50,6 +55,7 @@ sidebar:
    picture="/assets/images/committee/books.jpeg"
    site=""
    institution=""
+   email = "yunyaoli@us.ibm.com"
 %}
 
 <h2>Workshop Chairs 
@@ -59,6 +65,7 @@ sidebar:
    picture="/assets/images/committee/books.jpeg"
    site=""
    institution=""
+   email = "asli.ca@live.com"
 %}
 
 {% include committee-member.html
@@ -66,6 +73,7 @@ sidebar:
    picture="/assets/images/committee/books.jpeg"
    site=""
    institution=""
+   email = "dh@di.ku.dk"
 %}
 
 <h2>Tutorial Chairs </h2>
@@ -74,6 +82,7 @@ sidebar:
    picture="/assets/images/committee/books.jpeg"
    site=""
    institution=""
+   email = "samhaa@computer.org"
 %}
 
 {% include committee-member.html
@@ -81,6 +90,7 @@ sidebar:
    picture="/assets/images/committee/books.jpeg"
    site=""
    institution=""
+   email = "xpqiu@fudan.edu.cn"
 %}
 
 
@@ -90,6 +100,7 @@ sidebar:
    picture="/assets/images/committee/books.jpeg"
    site=""
    institution=""
+   email = "lea.frermann@unimelb.edu.au"
 %}
 
 {% include committee-member.html
@@ -97,6 +108,7 @@ sidebar:
    picture="/assets/images/committee/books.jpeg"
    site=""
    institution=""
+   email = "nael@itu.dk"
 %}
 
 <h2>Demonstration Chairs</h2>
@@ -105,6 +117,7 @@ sidebar:
    picture="/assets/images/committee/books.jpeg"
    site=""
    institution=""
+   email = "wanxiang@gmail.com"
 %}
 
 {% include committee-member.html
@@ -112,14 +125,16 @@ sidebar:
    picture="/assets/images/committee/books.jpeg"
    site=""
    institution=""
+   email = "shutova.e@gmail.com"
 %}
 
-<h2>Publication Chairs [<a href="">email</a>]</h2>
+<h2>Publication Chairs</h2>
 {% include committee-member.html
    name="Ryan Cotterell"
    picture="/assets/images/committee/books.jpeg"
    site=""
    institution=""
+   email = "ryan.cotterell@gmail.com"
 %}
 
 {% include committee-member.html
@@ -127,6 +142,7 @@ sidebar:
    picture="/assets/images/committee/books.jpeg"
    site=""
    institution=""
+   email = "eger@aiphes.tu-darmstadt.de"
 %}
 
 {% include committee-member.html
@@ -134,6 +150,7 @@ sidebar:
    picture="/assets/images/committee/books.jpeg"
    site=""
    institution=""
+   email = "swiseman@cs.duke.edu"
 %}
 
 <h2>Publicity Chairs </h2>
@@ -142,6 +159,7 @@ sidebar:
    picture="/assets/images/committee/books.jpeg"
    site=" "
    institution=" "
+   email = "eunsol@utexas.edu"
 %}
 
 {% include committee-member.html
@@ -149,6 +167,7 @@ sidebar:
    picture="/assets/images/committee/books.jpeg"
    site=""
    institution=""
+   email = "wzaghouani@hbku.edu.qa"
 %}
 
 
@@ -158,6 +177,7 @@ sidebar:
    picture="/assets/images/committee/books.jpeg"
    site="https:"
    institution=""
+   email = "hbouamor@cmu.edu"
 %}
 
 <h2>Virtual Infrastructure Chair</h2>
@@ -166,21 +186,31 @@ sidebar:
    picture="/assets/images/committee/books.jpeg"
    site=""
    institution=""
+   email = "we07@aub.edu.lb"
 %}
 {% include committee-member.html
    name="Hao Fang"
    picture="/assets/images/committee/books.jpeg"
    site=""
    institution=""
+   email = "hao.fang@microsoft.com"
 %}
 
 
 <h2>Website Chairs</h2>
 {% include committee-member.html
+   name="Zhaochun Ren"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email = "zhc.ren@gmail.com"
+%}
+{% include committee-member.html
    name="Fajie Yuan"
    picture="/assets/images/committee/books.jpeg"
    site=""
    institution=""
+   email = "yuanfajie@westlake.edu.cn"
 %}
 
 <h2>Diversity/Inclusion/Outreach Chairs</h2>
@@ -189,6 +219,7 @@ sidebar:
    picture="/assets/images/committee/books.jpeg"
    site=""
    institution=""
+   email = "thamar.solorio@gmail.com"
 %}
 
 {% include committee-member.html
@@ -196,6 +227,7 @@ sidebar:
    picture="/assets/images/committee/books.jpeg"
    site=""
    institution=""
+   email = "av308@cam.ac.uk"
 %}
 
 <h2>Reviewer Mentoring Chairs</h2>
@@ -204,6 +236,7 @@ sidebar:
    picture="/assets/images/committee/books.jpeg"
    site=""
    institution=""
+   email = "david.mimno@gmail.com"
 %}
 
 {% include committee-member.html
@@ -211,6 +244,7 @@ sidebar:
    picture="/assets/images/committee/books.jpeg"
    site=""
    institution=""
+   email = "lanyanyan@mail.tsinghua.edu.cn"
 %}
 
 
@@ -220,6 +254,7 @@ sidebar:
    picture="/assets/images/committee/books.jpeg"
    site=""
    institution=""
+   email = "wangmingxuan.89@bytedance.com"
 %}
 
 {% include committee-member.html
@@ -227,5 +262,5 @@ sidebar:
    picture="/assets/images/committee/books.jpeg"
    site=""
    institution=""
+   email = "izitouni@google.com"
 %}
-
