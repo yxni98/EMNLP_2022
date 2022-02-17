@@ -1,7 +1,7 @@
 ---
 title: 
 layout: single
-permalink: /calls/workshops/
+permalink: /calls/cs/
 sidebar: 
     nav: "calls"
 ---
