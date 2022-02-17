@@ -1,7 +1,7 @@
 ---
 title: Final Call For Papers
 layout: single
-permalink: /calls/papers/
+permalink:
 sidebar: 
     nav: "calls"
 toc: true
