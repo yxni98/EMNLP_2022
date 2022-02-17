@@ -23,10 +23,10 @@ main:
   #  url: /sponsors/
 
   - title: "Registration"
-    url: /not_available/
+    url: /not_available
 
   - title: "Calls"
-    url: /not_available/
+    url: /calls/papers/
 
   #- title: "Ethics"
   #  url: /ethics/faq/
@@ -73,25 +73,35 @@ calls:
       - title: "Main Conference Papers"
         url: /calls/papers/
       - title: "Industry Track Papers"
-        url: /calls/industry/
+        url: /calls/cs/
       - title: "System Demonstrations"
-        url: /calls/demos/
-      - title: "Student Research Workshop"
-        url: https://naacl2021-srw.github.io/
-  - title: Submission Material
-    children:
-      - title: "Area Descriptions"
-        url: /calls/area-descriptions/
-      - title: "Style Files and Formatting"
-        url: /calls/style-and-formatting/
-      - title: "Reproducibility Checklist"
-        url: /calls/reproducibility-checklist/
-  - title: Archived calls
-    children:
-      - title: "First Call for Papers"
-        url: /calls/papers/first/
-      - title: "Preliminary Call for Papers"
-        url: /calls/papers/prelim/
+        url: /calls/cs/
+      - title: "Travel Support Requests and Scholarships"
+        url: /calls/cs/
+      - title: "Live Mentoring Sessions at the conference"
+        url: /calls/cs/
+      - title: "Social Events Hosted by D&I Orgs"
+        url: /calls/cs/
+      - title: "Student Volunteers"
+        url: /calls/cs/
+      - title: "Reviewers"
+        url: /calls/cs/
+      - title: "Reviewer Mentors"
+        url: /calls/cs/
+  #- title: Submission Material
+  #  children:
+  #    - title: "Area Descriptions"
+  #      url: /calls/area-descriptions/
+  #    - title: "Style Files and Formatting"
+  #      url: /calls/style-and-formatting/
+  #    - title: "Reproducibility Checklist"
+  #      url: /calls/reproducibility-checklist/
+  #- title: Archived calls
+  #  children:
+  #    - title: "First Call for Papers"
+  #      url: /calls/papers/first/
+  #    - title: "Preliminary Call for Papers"
+  #      url: /calls/papers/prelim/
 
 ethics:
   - title: Ethics
