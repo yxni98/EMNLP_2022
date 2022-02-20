@@ -224,8 +224,9 @@ All accepted papers must be presented at the conference to appear in the proceed
 
 **General chair:** Kristina Toutanova (Google)-->
 
-## Call for Papers at the Main Conference
-
+## The following calls are coming soon
+ 
+- Call for Main Conference Papers
 - Call for Industry Track Papers
 - Call for Demo Papers
 - Call for Travel Support Requests and Scholarships
