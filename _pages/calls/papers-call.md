@@ -224,17 +224,7 @@ All accepted papers must be presented at the conference to appear in the proceed
 
 **General chair:** Kristina Toutanova (Google)-->
 
-## The following calls are coming soon
- 
-- Call for Main Conference Papers
-- Call for Industry Track Papers
-- Call for Demo Papers
-- Call for Travel Support Requests and Scholarships
-- Call for Live Mentoring Sessions at the Conference
-- Call for Social Events Hosted by D&I Orgs
-- Call for Student Volunteers
-- Call for Reviewers
-- Call for Reviewer Mentors
+## Coming Soon
 
 
 
