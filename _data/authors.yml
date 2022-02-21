@@ -56,3 +56,8 @@ demo-chairs:
   name        : "Demonstration Chairs"
   bio         : "Victoria Lin, Avi Sil"
   avatar      : "assets/images/logos/acl-logo.png"
+
+website-chairs:
+  name        : "Website Chairs"
+  bio         : "Zhaochun Ren, Fajie Yuan"
+  avatar      : "assets/images/logos/acl-logo.png"
