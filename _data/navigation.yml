@@ -13,8 +13,8 @@ main:
   #- title: "Program"
   #  url: /program/
 
-  #- title: "Blog"
-  #  url: /blog/
+  - title: "Blog"
+    url: /blog/
 
   #- title: "Participants Info"
   #  url: /participants/presenters/
