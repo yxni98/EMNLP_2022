@@ -8,9 +8,9 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
-_This FAQ is frequently updated. Please check back often!_
+_This FAQ is coming soon and will be frequently updated. Please check back often!_
 
-<style>
+<!--<style>
 p.question { margin: 1.3em 0 0.5em; font-weight: bold; }
 p.answer { margin: 0 0 1.8em; border-left: 4px solid #ccc; padding-left: .8em; }
 </style>
@@ -84,4 +84,4 @@ We are recruiting people we know have engaged with these issues in their work an
 Would I be able to present my paper virtually at the main conference and the workshops? Would I be able to participate in the conference virtually?
 {: .question}
 Yes, while we are still finalizing the format of the conference, all participants will have the option to attend virtually.
-{: .answer}
+{: .answer}!-->
