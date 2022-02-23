@@ -39,7 +39,10 @@ main:
 
   - title: "Committees"
     url: /organization
-
+    
+    
+  - title: "Venue"
+    url: /venue
 
 program:
   - title: Program Details
