@@ -1,5 +1,5 @@
 ---
-title: Instructions for Paper Presenters (Main Conference, Industry Track, and SRW)
+title: Instructions for Paper Presenters 
 layout: single
 permalink: /participants/presenters/
 sidebar:
@@ -7,9 +7,9 @@ sidebar:
 toc: false
 ---
 
-We really look forward to your participation in NAACL!
+We really look forward to your participation in EMNLP!
 
-The virtual conference site is [already live](https://underline.io/events/122/reception). Please login to Underline, find your oral and poster sessions, and check that the title, author, abstract, as well as poster and video links are correct.
+<!-- The virtual conference site is [already live](https://underline.io/events/122/reception). Please login to Underline, find your oral and poster sessions, and check that the title, author, abstract, as well as poster and video links are correct.
 If there are any errors, please let us know ASAP via this email: [naacl2021@underline.io](mailto:naacl2021@underline.io).
 
 Here are some last-minute details and reminders about how the individual sessions will be run.
@@ -28,5 +28,5 @@ For the oral pitches in the first segments, you can use any format you want (red
 
 At the end of the first segment, everyone will move to Gather.Town for the poster session.
 
-**Contact:** [NAACL 2021 PC Co-chairs](mailto:naacl-2021-program-chairs@googlegroups.com) (Anna, Dilek, and Luke)
+**Contact:** [NAACL 2021 PC Co-chairs](mailto:naacl-2021-program-chairs@googlegroups.com) (Anna, Dilek, and Luke) !-->
 
