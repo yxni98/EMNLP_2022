@@ -15,33 +15,33 @@ main:
 
   - title: "Blog"
     url: /blog/
-
-  - title: "Participants Info"
-    url: /participants/presenters/
-
-  - title: "Sponsors"
-    url: /not_available
-
-  - title: "Registration"
-    url: /not_available
+  
+  - title: "FAQ"
+    url: /faq/
 
   - title: "Calls"
     url: /calls/papers/
     
   - title: "Venue"
     url: /venue
-
-  - title: "Ethics"
+    
+  - title: "Registration"
     url: /not_available
+    
+  - title: "Sponsors"
+    url: /not_available 
+    
+  - title: "Committees"
+    url: /organization
 
   - title: "Reviewer"
     url: /not_available
 
-  - title: "FAQ"
-    url: /faq/
+  - title: "Participants Info"
+    url: /participants/presenters/
 
-  - title: "Committees"
-    url: /organization
+  - title: "Ethics"
+    url: /not_available
     
 
 program:
