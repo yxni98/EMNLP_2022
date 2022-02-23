@@ -8,7 +8,9 @@ sidebar:
     nav: program
 ---
 
-Please refer to the [Conference Structure blog post](/blog/conference-structure/) for more details regarding the schedule and presentation formats.
+Please refer to the [Conference blog post](/blog/) for more details information.
+
+<!--Please refer to the [Conference Structure blog post](/blog/conference-structure/) for more details regarding the schedule and presentation formats.
 
 The conference schedule can be accessed below (all times PDT, UTC-7):
 
@@ -18,6 +20,6 @@ The conference schedule can be accessed below (all times PDT, UTC-7):
 * [Industry Track](/conference-program/industry/program.html)
 * [Student Research Workshop](/conference-program/srw/program.html)
 * [Workshops](/program/workshops/)\*
-* [Social Programs](/program/social/)
+* [Social Programs](/program/social/)!
 
-\* The time zones of the [workshops](/program/workshops/) vary. Please check individual workshop pages for details.
+\* The time zones of the [workshops](/program/workshops/) vary. Please check individual workshop pages for details.-->
