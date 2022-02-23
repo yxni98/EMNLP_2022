@@ -25,7 +25,7 @@ main:
   - title: "Committees"
     url: /organization
   
-    - title: "Sponsors"
+  - title: "Sponsors"
     url: /not_available 
     
   - title: "Venue"
@@ -40,7 +40,7 @@ main:
   - title: "FAQ"
     url: /faq/
  
-   - title: "Ethics"
+  - title: "Ethics"
     url: /not_available
 
 
