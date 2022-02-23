@@ -27,6 +27,9 @@ main:
 
   - title: "Calls"
     url: /calls/papers/
+    
+  - title: "Venue"
+    url: /venue
 
   - title: "Ethics"
     url: /not_available
@@ -40,9 +43,6 @@ main:
   - title: "Committees"
     url: /organization
     
-    
-  - title: "Venue"
-    url: /venue
 
 program:
   - title: Program Details
