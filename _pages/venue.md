@@ -65,3 +65,5 @@ a taxi in advance by either using the Abu Dhabi Taxi App ([AppStore](https://app
 
 
 ## Childcare
+
+## FAQs
