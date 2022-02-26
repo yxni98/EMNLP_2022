@@ -3,7 +3,7 @@ title: "The 2022 Conference on Empirical Methods in Natural Language Processing"
 layout: splash
 permalink: /
 header:
-  overlay_image: "/assets/images/mexico_city/palacio_de_bellas_artes.jpg"
+  overlay_image: "/assets/images/abu_dhabi/Early morning aerial shot of Qasr Al Watan.JPEG.jpg"
   caption: 'Photo by <a href="https://unsplash.com/@manuel_arroyo25">Manuel Arroyo</a> on <a href="http://www.unsplash.com">Unsplash</a>'
 excerpt: "Abu Dhabi<br>December 7&ndash;11, 2022"
 ---
