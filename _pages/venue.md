@@ -16,8 +16,8 @@ Abu Dhabi‘s unique charm is reflected in the blend of ancient 19th century tra
 culture is very much alive. Visitors can see craftsmen demonstrating ancient skills or experience camel riding, falconry, ayallah dancing, and henna painting, and can learn about age-old customs from local people who enthusiastically share their traditions.
 
 To find out more, please visit this [page](https://visitabudhabi.ae/en).
-![mosque](/assets/images/abu_dhabi/grand-mosque.jpg)
-![mosque](/assets/images/abu_dhabi/iStock-653900372.jpg)
+![mosque]({{ site.baseurl }}/assets/images/abu_dhabi/grand-mosque.jpg)
+![mosque]({{ site.baseurl }}/assets/images/abu_dhabi/iStock-653900372.jpg)
 
 ## Venue
 
