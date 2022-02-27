@@ -173,7 +173,10 @@ Guidebooks and conversations with colleagues offer many suggestions for polite a
 <!-- When you are seated, make sure the sole of your foot is not pointing directly at anyone, as this would be insulting. Use your right hand to offer an item to another person or to receive items. For example, offer your business card with your right hand; you can receive one with both hands. The business week is Monday through Friday. -->
 
 Add few nice Arabic phrases here....
-
+English | Pronunciation |  عربي
+Hello | as-salamu alaykum | السلام عليكم
+      |  marhaba | مرحبا
+ 
 
 ### What's an LGBTQI+ identifying person's experience like in the UAE?
 Policies in the UAE vary by Emirate. In Abu Dhabi, there are no LGBTQ-specific laws except for prohibitions on cross-dressing. However, the prohibition is rarely enforced.
