@@ -30,10 +30,10 @@ EMNLP 2022 will take place in the Abu Dhabi National Exhibition Centre (ADNEC):
 
 ADNEC is a multi-award-winning venue offering organizers of exhibitions, conferences, and events outstanding facilities spread over a total space of 151,000 square meters. ADNEC is just 15 minutes away from the rapidly expanding Abu Dhabi International Airport which serves over 50 airlines and 100 destinations in 46 countries around the globe. It is only 20 minutes from downtown Abu Dhabi and 90 minutes from Dubai International Airport.
 
-![adnec-1](/assets/images/abu_dhabi/World-class facilities.jpg)
-![adnec-2](/assets/images/abu_dhabi/BC7A8354-Pano-Edit.jpg)
-![adnec-3](/assets/images/abu_dhabi/BC7A8054-Pano-Edit-Edit gradient.jpg)
-![adnec-4](/assets/images/abu_dhabi/adnec_floor.jpg)
+![adnec-1]({{ site.baseurl }}/assets/images/abu_dhabi/World-class facilities.jpg)
+![adnec-2]({{ site.baseurl }}/assets/images/abu_dhabi/BC7A8354-Pano-Edit.jpg)
+![adnec-3]({{ site.baseurl }}/assets/images/abu_dhabi/BC7A8054-Pano-Edit-Edit gradient.jpg)
+![adnec-4]({{ site.baseurl }}/assets/images/abu_dhabi/adnec_floor.jpg)
 
 <!-- ![adnec-1](/assets/images/abu_dhabi/20191230_ADNEC Venue_153.jpg)
 ![adnec-1](/assets/images/abu_dhabi/20191230_ADNEC Venue_153.jpg) -->
@@ -154,7 +154,7 @@ Citizens of GCC countries do not require a visa or permit or to be sponsored by 
 ### What should I wear in Abu Dhabi?
 Due to the Islamic codes of modesty in Abu Dhabi, there is always a mixture of Western and Arabic styles. Dressing modestly is a sign of respect for the culture and is especially important during Ramadan (the Islamic holy month). Women are basically free to dress as they please, however, tight and revealing clothing would be considered disrespectful to local custom. Sleeves of any length are preferable to sleeveless blouses and dresses. Lightweight summer clothing is appropriate for most of the year. There is no requirement for women to cover their heads, unless visiting a mosque. Because the air conditioning is strong in restaurants, hotels, and other indoor venues, jackets, sweaters and wraps are useful. When visiting government offices, it is best to cover arms and legs. For the beach, while items like shorts, sleeveless shirts and two-piece women's swimsuits are acceptable at the beach itself, we would recommend bringing an outfit with more coverage if you will be leaving the beach or using public transport to get to and from the beach.
 
-![dress](/assets/images/abu_dhabi/dress_ad.jpg)
+![dress]({{ site.baseurl }}/assets/images/abu_dhabi/dress_ad.jpg)
 
 
 ### What is the weather like in the UAE?
