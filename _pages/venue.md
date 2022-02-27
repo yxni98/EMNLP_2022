@@ -30,6 +30,7 @@ EMNLP 2022 will take place in the Abu Dhabi National Exhibition Centre (ADNEC):
 
 ADNEC is a multi-award-winning venue offering organizers of exhibitions, conferences, and events outstanding facilities spread over a total space of 151,000 square meters. ADNEC is just 15 minutes away from the rapidly expanding Abu Dhabi International Airport which serves over 50 airlines and 100 destinations in 46 countries around the globe. It is only 20 minutes from downtown Abu Dhabi and 90 minutes from Dubai International Airport.
 
+<<<<<<< HEAD
 ![adnec-1](/assets/images/abu_dhabi/World-class facilities.jpg)
 ![adnec-2](/assets/images/abu_dhabi/BC7A8354-Pano-Edit.jpg)
 ![adnec-3](/assets/images/abu_dhabi/BC7A8054-Pano-Edit-Edit gradient.jpg)
@@ -50,13 +51,33 @@ a taxi in advance by either using the Abu Dhabi Taxi App ([AppStore](https://app
 
 ### Tours
 - TBD
+=======
+## Transportation and Tours
+
+### Access to the Venue
+- If you are traveling by car from Abu Dhabi Airport, ADNEC is just a 20-minute drive. From Abu Dhabi Corniche, ADNEC is located just 15 minutes away.
+- Taxis are available throughout Abu Dhabi and they are quiet convenient and 
+affordable. Abu Dhabi’s taxi network is operated by TransAD. You can book 
+a taxi in advance by either using the Abu Dhabi Taxi App ([AppStore](https://apps.apple.com/ae/app/abu-dhabi-taxi/id613114167), [Google Play](https://play.google.com/store/apps/details?id=transad.abudhabi.taxi)) or by calling 600 53 53 53. A number of taxis are available from ADNEC at the adjacent Aloft Hotel entrance. UBER is also available in Abu Dhabi but it is generally a bit more expensive than taxis.
+- Buses are also available around Abu Dhabi and ADNEC is serviced by bus number 040, seven days a week. For more information on bus routes, services and fares please see the [Department of Transport website](https://itc.gov.ae/en/info/Abu_Dhabi_Region_Bus_Services).
+
+### Tours:
+- TBD
 
 ## COVID-19 Testing and Medical Assistance
 
+>>>>>>> 72cb052aa08008385edc4a67cb9e61aed6353ec2
 
+## COVID-19 Testing and Medical Assistance
 
 ## Other health recommendations
 
+<<<<<<< HEAD
+
+## Other health recommendations
+
+=======
+>>>>>>> 72cb052aa08008385edc4a67cb9e61aed6353ec2
 
 
 
@@ -206,5 +227,9 @@ In the UAE, people with special needs or disabilities are referred to as ‘peop
 =======
 ## Childcare
 
+<<<<<<< HEAD
+## FAQs
+>>>>>>> 72cb052aa08008385edc4a67cb9e61aed6353ec2
+=======
 ## FAQs
 >>>>>>> 72cb052aa08008385edc4a67cb9e61aed6353ec2
