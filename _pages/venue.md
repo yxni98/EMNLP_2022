@@ -138,16 +138,16 @@ Jubail Mangrove Park is home to meandering boardwalks that allow you to wander t
 
 ![](/assets/images/abu_dhabi/beach.jpeg)
 
-**Night Life**:
+<!-- **Night Life**: -->
 
-**Shopping Malls**:
+<!-- **Shopping Malls**:
 
 - [Yas Mall](https://www.google.ae/maps/dir/Current+Location/Yas%20Mall,Abu%20Dhabi/@24.488523,54.608676)
 - [Galleria Mall](https://www.google.ae/maps/dir/Current+Location/The%20Galleria%20Al%20Maryah%20Island,Abu%20Dhabi/@24.502217,54.388451)
 - [Abu Dhabi Mall](https://www.google.ae/maps/dir/Current+Location/Abu%20Dhabi%20Mall,Abu%20Dhabi/@24.496009,54.383263)
-- [Marina Mall](https://www.google.ae/maps/dir/Current+Location/Marina%20Mall,Abu%20Dhabi/@24.476179,54.321095)
+- [Marina Mall](https://www.google.ae/maps/dir/Current+Location/Marina%20Mall,Abu%20Dhabi/@24.476179,54.321095) -->
 
-### Food and Restaurants
+<!-- ### Food and Restaurants
 Abu Dhabi has a range of impressive dining options to offer, with stylish restaurants, cafés and bistros serving cuisines from around the globe. NLP researchers at NYU Abu Dhabi recommend the following places:
 
 - Arabic: [Al Fanar](), [Beirut Sur Mer](), [Abd El Wahab]().
@@ -158,7 +158,7 @@ Abu Dhabi has a range of impressive dining options to offer, with stylish restau
 
 - East Asian: [Zuma](), [Niri](), [Seven Hotpot]()
 
-- American: [Black Tap]()
+- American: [Black Tap]() -->
 
 
 ### Dubai
