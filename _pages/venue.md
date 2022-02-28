@@ -58,12 +58,7 @@ a taxi in advance by either using the Abu Dhabi Taxi App ([AppStore](https://app
 
 ## COVID-19 Testing and Medical Assistance
 
-## Other health recommendations
-
-
-## Other health recommendations
-
-
+### Other health recommendations
 
 
 ## Accommodation Information
@@ -86,10 +81,6 @@ These hotels are two minutes away on foot to the venue of EMNLP2022:
 Low-cost AirBnB affordable accommodations are also available in Abu Dhabi.
 The listings range from family-friendly/students offering selection of listings equipped with kitchens, washer/dryer, and WiFi.
 From extra rooms to swimming pools, airbnb family friendly listings provide plenty of space to accommodate the whole family.
-
-### Student Accommodation
-
-
 
 
 ## Welcome Reception and Social Event
@@ -172,88 +163,110 @@ Abu Dhabi has a range of impressive dining options to offer, with stylish restau
 
 ### Dubai
 
+Dubai is only 140km away from Abu Dhabi.
+To find out more, please visit [here](https://www.visitdubai.com/).
+
+![dubai](/assets/images/abu_dhabi/burj-khalifa_01.jpeg)
 
 ## Important Information
 
+**Climate**
 
-### Climate
 Abu Dhabi has a northern-hemisphere subtropical, arid climate.
 October to April is Winter:
 Average high daytime temperatures is 23 ̊C Average low night temperatures 12 ̊C
 May and September is Summer:
 Average high daytime temperatures is 42 ̊C Average low night temperatures 32 ̊C.
 
-### Clothing
+**Clothing**
+
 Summer clothing may be worn for most of the year, but during the winter evening temperatures may occasionally call for a jacket or light coat. While dress codes are fairly liberal, consideration should be given not to offend the sensibilities
 of others. Swimwear should be worn only on beaches or at swimming pools. Visiting shopping malls and other attractions, tourists should wear clothing that is not too tight or revealing. Certain attractions such as mosques or religious sites usually have stricter dress codes, requiring both men and women to cover up bare shoulders, arms and legs, and women to wear headscarves.
 
-### Communications
+**Communications**
 
 The international dialing code for incoming calls to landlines in the UAE is +971 and 02 for Abu Dhabi. Calls to and from landlines within Abu Dhabi are free. Direct dialing is possible to over 170 countries.
 UAE has two mobile networks, Du and Etisalat:
 - Both offer temporary SIM cards for tourists and business travelers, including data and calls and these can be purchased at outlets across the UAE, including at the airport and malls.
 - Roaming services are also available for most visitors if they wish to use their existing number and phone.
 
-### Electricity
+**Electricity**
+
 The electricity supply in Abu Dhabi is 220/240 volts at 50 cycles. Standard British-type 13-amp square three-pin plugs are the norm in most hotels. European or US-made appliances may need a plug adapter.
 
-### Language
+**Language**
+
 The national language of the UAE is Arabic. However English is also very widely spoken throughout Abu Dhabi, especially in business, hospitality, retail environments, street signs and restaurant menus, etc.
 
-### Photography
+**Photography**
+
 Normal tourist photography is welcome but, as elsewhere in the world, it is courteous and wise to ask permission before photographing other people.
 
-### Public Holidays
+**Public Holidays**
+
 Islamic holidays are based on the Hijri calendar which is controlled by the sighting of the moon. As a result the dates of holidays are often confirmed less than 24 hours in advance. Some of these are Eid Al Fitr (three days), Eid Al Adha (four days) and Al Hejra (one day). Fixed dates on the calendar are New Year’s Day (Jan 1) and UAE National Day (Dec 2).
 
-### Security
+**Security**
+
 As one of the most cosmopolitan and multicultural cities in the world, home to over 200 different nationalities, Abu Dhabi is an advocate for peace and stability, and proud to be a connecting hub between East and West.
 - Ranked in the 10 safest cities by Aon Hewitt, with low crime rates, a stable government and a department of Abu Dhabi Police dedicated entirely to visitors.
 
-### Tipping & Gratuities
+**Tipping & Gratuities**
+
 Tipping practices are similar to most other parts of the world. Most restaurants include a 10% service charge, but tipping in general is at the customer’s discretion.
 
-### Water
+**Water**
+
 The tap water in Abu Dhabi is safe to drink. But locally bottled water is generally served in hotels and restaurants.
 
-### Business hours
+**Business hours**
+
 Most businesses are open from 8am to 6pm, Saturday to Thursday, with Friday and Saturday being official holidays for all government departments. Embassies, consulates and government offices operate from 7.30am to 2.30 pm, Sunday to Thursday.
 
-### Currency
+**Currency**
+
 The monetary unit is the Dirham (AED), which is divided into 100 fils. The exchange rate is pegged to the US Dollar at the rate $1 = AED 3.675
 
-### Bargaining
+**Bargaining**
+
 Bargaining is expected in the souk and is not unusual elsewhere. Vendors will usually drop the price and often quite substantially, particularly for a cash sale.
 
-### Living Cost
+**Living Cost**
+
 The average costs at an average coffee shop or restaurant are as follows:
 - Cup of Coffee – 14-20 AED/$3.8-5.5 USD
 - Sandwich lunch – 15-30 AED/$5-8.2 USD • Evening meal – 30-50 AED/$8.2–13.6 USD
 
-### Taxation
+**Taxation**
+
 The UAE does not levy income tax on individuals. However, it levies corporate tax on oil companies and foreign banks. Excise tax is levied on specific goods which are typically harmful to human health or the environment. Value Added Tax is levied on a majority of goods and services.
 
 
 ## FAQs
 
-### Do I need a visa to visit Abu Dhabi?
+**Do I need a visa to visit Abu Dhabi?**
+
 Citizens of GCC countries do not require a visa or permit or to be sponsored by a national or resident in the UAE. They need to produce their GCC country passport or national ID card at the point of entry into the UAE. [Citizens of these countries](...) do not require advance visa arrangements to enter the UAE and can obtain a visa upon arrival for 30 days with a 10-day grace period for extension. [Citizens of these countries](...) do not require advance visa arrangements to enter the UAE and can obtain a visa upon arrival for 90 days. More information about other passports is available [here](https://u.ae/en/information-and-services/visa-and-emirates-id/do-you-need-an-entry-permit-or-a-visa-to-enter-the-uae).
 
-### What should I wear in Abu Dhabi?
+**What should I wear in Abu Dhabi?**
+
 Due to the Islamic codes of modesty in Abu Dhabi, there is always a mixture of Western and Arabic styles. Dressing modestly is a sign of respect for the culture and is especially important during Ramadan (the Islamic holy month). Women are basically free to dress as they please, however, tight and revealing clothing would be considered disrespectful to local custom. Sleeves of any length are preferable to sleeveless blouses and dresses. Lightweight summer clothing is appropriate for most of the year. There is no requirement for women to cover their heads, unless visiting a mosque. Because the air conditioning is strong in restaurants, hotels, and other indoor venues, jackets, sweaters and wraps are useful. When visiting government offices, it is best to cover arms and legs. For the beach, while items like shorts, sleeveless shirts and two-piece women's swimsuits are acceptable at the beach itself, we would recommend bringing an outfit with more coverage if you will be leaving the beach or using public transport to get to and from the beach.
 
 ![dress](/assets/images/abu_dhabi/dress_ad.jpg)
 
 
-### What is the weather like in the UAE?
+**What is the weather like in the UAE?**
+
 Abu Dhabi has a sub-tropical climate. November to March is the most appealing season, and this is also when infrequent winter rains occur. The temperature range in the winter months is between 56º F (13º C) and 75º F (24º C) with typically bright sunny days which correspond to the best kind of spring weather in the US. Summer temperatures range from a low of around 65º F (18º C) to over 115º F (46º C) and the humidity may be high.
 
 
-### What is the timezone?
+**What is the timezone?**
+
 Abu Dhabi is GMT+4.
 
 
-### Should I follow certain customs when visiting?
+**Should I follow certain customs when visiting?**
+
 
 The UAE is an Islamic country which is a dominant fact of life for the local Emirati population and flavors everyday life for Abu Dhabi’s other residents as well. Much like any cosmopolitan metropolis, both street and pedestrian traffic are lively, as Emiratis and expatriates from around the globe frequent shopping malls, restaurants, sports facilities, and the waterfront area known locally as the Corniche. Despite what may be thought to prevail in other Middle Eastern countries, women should face few if any problems when traveling in the UAE.
 
@@ -268,33 +281,39 @@ Add few nice Arabic phrases here....
 |      |  marhaba | مرحبا|
  
 
-### What's an LGBTQI+ identifying person's experience like in the UAE?
+**What's an LGBTQI+ identifying person's experience like in the UAE?**
+
 Policies in the UAE vary by Emirate. In Abu Dhabi, there are no LGBTQ-specific laws except for prohibitions on cross-dressing. However, the prohibition is rarely enforced.
 
-### What about public displays of affection?
+**What about public displays of affection?**
+
 The culture of the UAE puts a lot of value on discretion and modest behavior in public spaces. 
 Public displays of affection between couples of all orientations and genders are generally discouraged.
 
-### Is Abu Dhabi dangerous?
+**Is Abu Dhabi dangerous?**
+
 Overall, Abu Dhabi’s general crime level remains very low. Random, violent criminal acts are extremely rare. As in any other city, you should be cognizant of your surroundings and personal safety as you travel. Dress appropriately, and respect the cultural mores by avoiding public displays of affection. Most public areas are well-lit at night, and most public buildings tend to be relatively safe. Crowds are generally nonthreatening and political demonstrations must have governmental approval.
 
 
-### How can I travel around the city?
+**How can I travel around the city?**
+
 An inexpensive bus service serves Abu Dhabi, and is operated by the Abu Dhabi Municipality. There are city-wide bus routes, with stops in many residential areas. Taxi service is inexpensive relative to other similar cities; the law requires drivers to use their meters. Taxis are usually available at hotels and malls. Depending on the time of day and rush hour conditions, taxi service can be sporadic. Drivers generally speak some English; be sure your driver knows exactly where you wish to go. 
 
 
-### Which plugs do I use?
+**Which plugs do I use?**
+
 Voltage in Abu Dhabi is 220/240. North American electric shavers, hair dryers, and electric toothbrushes are known to break with the higher voltage and it is therefore advisable to purchase new ones once you are in the region. Computers, cell phones, and Blackberries all have voltage converters built into them, but you may need to use physical plug adapters. Adapters are also available at grocery stores and electronics stores.
 
-### Can I drink in the UAE?
+**Can I drink in the UAE?**
+
 The legal drinking age in the UAE is 21, except in the Emirate of Sharjah, where alcohol consumption is illegal. Being intoxicated in public is not permitted. Abu Dhabi has a zero tolerance policy, and there are severe fines and penalties for those caught driving while under the influence. 
 
 
-### Does everyone speak English?
+**Does everyone speak English?**
+
 Although Arabic is the official business language, English is widely used in Abu Dhabi. Signs for roads, shops, and restaurants are written in both languages. Urdu and Hindi are also widely spoken.
 
 
-### Is Abu Dhabi an accessible city?
-In the UAE, people with special needs or disabilities are referred to as ‘people of determination’ to recognize their achievements in different fields. Especially in recent years, the UAE government has worked hard to ensure that modern areas and establishments such as cultural sites, hotels, restaurants are fitted with adaptations and services for people of determination. Parking lots include designated spots, public spaces have been updated with proper facilities, and ramps are increasingly commonplace outside public buildings.
+**Is Abu Dhabi an accessible city?**
 
-## Childcare
+In the UAE, people with special needs or disabilities are referred to as ‘people of determination’ to recognize their achievements in different fields. Especially in recent years, the UAE government has worked hard to ensure that modern areas and establishments such as cultural sites, hotels, restaurants are fitted with adaptations and services for people of determination. Parking lots include designated spots, public spaces have been updated with proper facilities, and ramps are increasingly commonplace outside public buildings.
