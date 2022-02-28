@@ -8,33 +8,26 @@ toc_icon: "cog"
 ---
 
 ## Abu Dhabi
-Welcome to our meeting place where travelers from all over the world receive a warm greeting and experience the respect of the residents of the United Arab Emirates.
 
-Hospitality lies in the very heart of Arabian culture. Visitors today experience a welcome unmatched anywhere else, from the traditional serving of Arabic coffee to an absolute dedication of the highest standards of modern service.
+Abu Dhabi is the capital and the second-most populous city of the United Arab Emirates (after Dubai).  Situated on a set of islands in the Persian Gulf, Abu Dhabi is a cosmopolitan city with a very large international presence (90% of residents).  English is the lingua franca. To find out more, please visit [this page](https://visitabudhabi.ae/en).
 
-Abu Dhabi‘s unique charm is reflected in the blend of ancient 19th century traditions and modern 21st century economy and lifestyle. Old world courtesies still prevail and traditional
-culture is very much alive. Visitors can see craftsmen demonstrating ancient skills or experience camel riding, falconry, ayallah dancing, and henna painting, and can learn about age-old customs from local people who enthusiastically share their traditions.
-
-To find out more, please visit this [page](https://visitabudhabi.ae/en).
-
-![abu_dhabi](../assets/images/abu_dhabi/abu_dhabi.jpg)
+![abu_dhabi](/assets/images/abu_dhabi/abu_dhabi.jpg)
 
 ## Venue
 
-EMNLP 2022 will take place in the Abu Dhabi National Exhibition Centre (ADNEC):
+EMNLP 2022 will take place in the Abu Dhabi National Exhibition Centre ([ADNEC](https://adnec.ae/)).
+ADNEC is a multi-award-winning venue offering organizers of exhibitions, conferences, and events outstanding facilities spread over a total space of 151,000 square meters. ADNEC is just 15 minutes away from the rapidly expanding Abu Dhabi International Airport which serves over 50 airlines and 100 destinations in 46 countries around the globe. It is only 20 minutes from downtown Abu Dhabi and 90 minutes from Dubai International Airport.
 
-- Abu Dhabi National Exhibitions Company, Khaleej Al Arabi Street, P.O. Box 5546, Abu Dhabi, United Arab Emirates
+- Address: Abu Dhabi National Exhibitions Company, Khaleej Al Arabi Street, P.O. Box 5546, Abu Dhabi, United Arab Emirates
 - Phone: +971 (0) 2 444 6900
 - Web: [https://adnec.ae/](https://adnec.ae/)
 - E-mail: customer.services@adnec.ae
 
-ADNEC is a multi-award-winning venue offering organizers of exhibitions, conferences, and events outstanding facilities spread over a total space of 151,000 square meters. ADNEC is just 15 minutes away from the rapidly expanding Abu Dhabi International Airport which serves over 50 airlines and 100 destinations in 46 countries around the globe. It is only 20 minutes from downtown Abu Dhabi and 90 minutes from Dubai International Airport.
-
-![adnec-1](../assets/images/abu_dhabi/adnec.jpg)
+![adnec-1](/assets/images/abu_dhabi/adnec.jpg)
 
 **Floor Plan**
 
-![adnec-4](../assets/images/abu_dhabi/adnec_floor.jpg)
+![adnec-4](/assets/images/abu_dhabi/adnec_floor.jpg)
 <!-- ![adnec-1](/assets/images/abu_dhabi/World-class facilities.jpg)
 ![adnec-2](/assets/images/abu_dhabi/BC7A8354-Pano-Edit.jpg)
 ![adnec-3](/assets/images/abu_dhabi/BC7A8054-Pano-Edit-Edit gradient.jpg)
@@ -54,18 +47,19 @@ a taxi in advance by either using the Abu Dhabi Taxi App ([AppStore](https://app
 <!-- Add a bit about CAREEM -->
 - **Buses** are also available around Abu Dhabi and ADNEC is serviced by bus number 040, seven days a week. For more information on bus routes, services and fares please see the [Department of Transport website](https://itc.gov.ae/en/info/Abu_Dhabi_Region_Bus_Services).
 
-## COVID-19 Testing and Medical Assistance
+## COVID-19 Regulations 
+<!-- Testing and Medical Assistance -->
 
-**Other health recommendations**
+The COVID-19 global situation is continuously changing. For the latest information on Abu Dhabi regulaions, please visit [this page](https://visitabudhabi.ae/en/plan-your-trip/covid-safe-travel).
 
 
 ## Accommodation Information
 Abu Dhabi has an extensive range of modern and traditional hotels featuring internationally recognized brands.
 From budget conscious to 5-star luxury, there is no better place to experience our legendary Arabian Hospitality.
 
-![hotel](../assets/images/abu_dhabi/hotels.png)
+![hotel](/assets/images/abu_dhabi/hotels.png)
 
-These hotels are two minutes away on foot to the venue of EMNLP2022:
+These hotels are **two minutes away on foot** to the venue of EMNLP2022:
 - [Andaz Capital Gate Abu Dhabi](https://www.hyatt.com/en-US/hotel/united-arab-emirates/andaz-capital-gate-abu-dhabi/abdcc)
 - [Pearl Rotana Capital Centre](https://www.rotana.com/rotanahotelandresorts/unitedarabemirates/abudhabi/pearlrotana)
 - [Aloft Abu Dhabi Hotel](https://www.marriott.com/en-us/hotels/auhnl-aloft-abu-dhabi/overview/)
@@ -74,7 +68,7 @@ These hotels are two minutes away on foot to the venue of EMNLP2022:
 - [Centro Capital Centre](https://www.rotana.com/centrohotels/unitedarabemirates/abudhabi/centrocapitalcentre)
 
 
-![airbnb](../assets/images/abu_dhabi/airbnb_logo.png){: .align-center}
+![airbnb](/assets/images/abu_dhabi/airbnb_logo.png){: .align-center}
 
 Low-cost AirBnB affordable accommodations are also available in Abu Dhabi.
 <!-- The listings range from family-friendly/students offering selection of listings equipped with kitchens, washer/dryer, and WiFi.
@@ -85,7 +79,7 @@ From extra rooms to swimming pools, airbnb family friendly listings provide plen
 Coming Soon!
 
 ## Childcare
-Please check with the hotels for childcare support.
+Please check with the specific hotel where you plan to stay for childcare support.
 
 ## Places to Visit
 
@@ -94,37 +88,37 @@ Please check with the hotels for childcare support.
 **Emirates Palace**
 
 Located in the heart of Abu Dhabi, Emirates Palace is one of the capital's most well-known landmarks. It is known for its enchanting Arabesque style, award-winning five-star hospitality and wonderfully unique and authentic local experiences. Directions can be found [here](https://www.google.ae/maps/dir/Current+Location/Emirate%20Palace,Abu%20Dhabi/@24.461644,54.317283).
-![](../assets/images/abu_dhabi/ep2.jpeg)
+![](/assets/images/abu_dhabi/ep2.jpeg)
 
 **Louvre Abu Dhabi**
 
 The iconic Louvre Abu Dhabi is the first universal museum in the Arab World, translating and fostering the spirit of openness between cultures. As one of the premier cultural institutions located in the heart of the Saadiyat Cultural District on [Saadiyat Island](https://visitabudhabi.ae/en/where-to-go/islands/saadiyat-island), this art-lovers’ dream displays works of historical, cultural and sociological significance, from ancient times to the contemporary era. Directions can be found [here](https://www.google.ae/maps/dir/Current+Location/Louvre%20Abu%20Dhabi,Abu%20Dhabi/@24.533698,54.398137).
 
-![](../assets/images/abu_dhabi/louvre_1.jpeg)
+![](/assets/images/abu_dhabi/louvre_1.jpeg)
 
 **Sheikh Zayed Grand Mosque**
 
 The impressive and inspiring Sheikh Zayed Grand Mosque is one of the world’s largest mosques and the only one that captures the unique interactions between Islam and other world cultures. Sheikh Zayed bin Sultan Al Nahyan, the Founder of the UAE, had a very specific vision for this mosque: to incorporate architectural styles from different Muslim civilizations and celebrate cultural diversity by creating a haven that is truly welcoming and inspirational in its foundation. The mosque’s architects were British, Italian and Emirati, with design ideas borrowed from parts of Turkey, Morocco, Pakistan and Egypt, among other Islamic countries. Directions can be found [here](https://www.google.ae/maps/dir/Current+Location/Sheikh%20Zayed%20Grand%20Mosque,Abu%20Dhabi/@24.412837,54.474976).
 
-![](../assets/images/abu_dhabi/mosque_1.jpeg)
+![](/assets/images/abu_dhabi/mosque_1.jpeg)
 
 **Qasr Al Hosn**
 
 Over the centuries, Qasr Al Hosn has been home to the ruling family, acted as the seat of government, housed the National Consultative Council founded by the late Sheikh Zayed Bin Sultan Al Nahyan, Founder of the UAE, as well as being a national archive. Today it stands as the nation's living memorial and a narrator of Abu Dhabi's history. Directions can be found [here](https://www.google.ae/maps/dir/Current+Location/Qasr%20Al%20Hosn,Abu%20Dhabi/@24.482239,54.354842).
 
-![](../assets/images/abu_dhabi/Qasr-Al-Hosn-04.jpeg)
+![](/assets/images/abu_dhabi/Qasr-Al-Hosn-04.jpeg)
 
 **The National Aquarium Abu Dhabi**
 
 The largest aquarium in the Middle East, The National Aquarium in Al Qana is literally swimming with aquatic wildlife featuring over 46,000 animals from more than 300 unique species. Spread across 10 nautically-themed zones, from the UAE’s Natural Treasures, sunken sea wrecks and Atlantic caves, right through to flooded forests, fiery volcanoes and a frozen ocean, there are more than 60 attractions that will be sure to delight and excite the whole family. Directions can be found [here](https://www.google.ae/maps/dir/Current+Location/The%20National%20Aquarium%20Abu%20Dhabi,Abu%20Dhabi/@24.402209,54.49634).
 
-![](../assets/images/abu_dhabi/aquarium.jpeg)
+![](/assets/images/abu_dhabi/aquarium.jpeg)
 
 **Yas Island**
 
-This landmark, family-friendly entertainment hub is just a 30-minute drive from the city and a 15-minute drive from Abu Dhabi International Airport. Yas Island is home to an F1™ race track, several theme parks, an incredible links golf course, beautiful beach, stunning hotels, an impressive mall and much more. It's the perfect place to bring the kids, from toddler to teen, for a fun-filled holiday by the sea.
+This family-friendly entertainment hub is just a 30-minute drive from the city and a 15-minute drive from Abu Dhabi International Airport. Yas Island is home to an F1™ race track, several theme parks, an incredible links golf course, beautiful beach, stunning hotels, an impressive mall and much more. It's the perfect place to bring the kids, from toddler to teen, for a fun-filled holiday by the sea.
 
-![](../assets/images/abu_dhabi/yas_1.jpeg)
+![](/assets/images/abu_dhabi/yas_1.jpeg)
 <!-- ![](/assets/images/abu_dhabi/yas_2.jpeg)
 ![](/assets/images/abu_dhabi/yas_3.jpeg) -->
 
@@ -132,7 +126,7 @@ This landmark, family-friendly entertainment hub is just a 30-minute drive from 
 
 Jubail Mangrove Park is home to meandering boardwalks that allow you to wander through the mangroves, discovering a nature-rich side to Abu Dhabi and spotting an array of wildlife, from turtles to herons, gazelle and more. Birdwatchers, nature-lovers and photographers will be in their element here. Directions can be found [here](https://www.google.ae/maps/dir/Current+Location/Jubail%20Mangrove%20Park,Abu%20Dhabi/@24.545194,54.485399)
 
-![](../assets/images/abu_dhabi/jubail_mangrove.jpeg)
+![](/assets/images/abu_dhabi/jubail_mangrove.jpeg)
 
 ### Abu Dhabi Beaches
 **[Soul Beach Saadiyat Island](https://www.google.ae/maps/dir/Current+Location/Soul%20Beach,Abu%20Dhabi/@24.53966171946439,54.41035367059425)**
@@ -145,7 +139,7 @@ Tucked away in Saadiyat Island, Soul Beach is Saadiyat Island’s new captivatin
 **[Yas Beach](https://www.google.ae/maps/dir/Current+Location/Yas%20Beach,Abu%20Dhabi/@24.462087,54.592183)**
 Set on a majestic stretch of white sand, sun-seekers holidaying at any of Yas Island’s hotels and hotel apartments can enjoy complimentary access to the island’s crystal clear waters and natural mangrove surrounds.
 
-![](../assets/images/abu_dhabi/beach.jpeg)
+![](/assets/images/abu_dhabi/beach.jpeg)
 
 ### Tours
 Details coming soon.
@@ -178,7 +172,7 @@ Abu Dhabi has a range of impressive dining options to offer, with stylish restau
 Dubai is only 140km (1 hour and 20 minutes by car) away from Abu Dhabi.
 To find out more, please visit [here](https://www.visitdubai.com/).
 
-![dubai](../assets/images/abu_dhabi/burj-khalifa_01.jpeg)
+![dubai](/assets/images/abu_dhabi/burj-khalifa_01.jpeg)
 
 ## Important Information
 
@@ -202,17 +196,23 @@ UAE has two mobile networks, Du and Etisalat:
 - Both offer temporary SIM cards for tourists and business travelers, including data and calls and these can be purchased at outlets across the UAE, including at the airport and malls.
 - Roaming services are also available for most visitors if they wish to use their existing number and phone.
 
+**Currency & Living Cost**
+
+The monetary unit is the Dirham (AED), which is divided into 100 fils. The exchange rate is pegged to the US Dollar at the rate $1 = AED 3.675.
+
+The average costs at an average coffee shop or restaurant are as follows:
+- Cup of coffee: 14-20 AED/$3.8-5.5 USD
+- Sandwich lunch: 15-30 AED/$5-8.2 USD 
+- Evening meal: 30-50 AED/$8.2–13.6 USD
+
 **Electricity**
 
 The electricity supply in Abu Dhabi is 220/240 volts at 50 cycles. Standard British-type 13-amp square three-pin plugs are the norm in most hotels. European or US-made appliances may need a plug adapter.
 
 **Language**
 
-The national language of the UAE is Arabic. However English is also very widely spoken throughout Abu Dhabi, especially in business, hospitality, retail environments, street signs and restaurant menus, etc.
+The official language of the UAE is Arabic. However English is also very widely spoken throughout Abu Dhabi, especially in business, hospitality, retail environments, street signs, taxis, and restaurant menus, etc.  Urdu and Hindi are also widely spoken.
 
-**Photography**
-
-Normal tourist photography is welcome but, as elsewhere in the world, it is courteous and wise to ask permission before photographing other people.
 
 <!-- **Public Holidays**
 
@@ -223,32 +223,6 @@ Islamic holidays are based on the Hijri calendar which is controlled by the sigh
 As one of the most cosmopolitan and multicultural cities in the world, home to over 200 different nationalities, Abu Dhabi is an advocate for peace and stability, and proud to be a connecting hub between East and West.
 - Ranked in the 10 safest cities by Aon Hewitt, with low crime rates, a stable government and a department of Abu Dhabi Police dedicated entirely to visitors.
 
-**Tipping & Gratuities**
-
-Tipping practices are similar to most other parts of the world. Most restaurants include a 10% service charge, but tipping in general is at the customer’s discretion.
-
-**Water**
-
-The tap water in Abu Dhabi is safe to drink. But locally bottled water is generally served in hotels and restaurants.
-
-**Business hours**
-
-Most businesses are open from 8am to 6pm, Monday to Friday, with Saturday and Sunday being official holidays for all government departments. Embassies, consulates and government offices operate from 7.30am to 2.30 pm, Monday to Friday.
-
-**Currency**
-
-The monetary unit is the Dirham (AED), which is divided into 100 fils. The exchange rate is pegged to the US Dollar at the rate $1 = AED 3.675
-
-<!-- **Bargaining**
-
-Bargaining is expected in the souk and is not unusual elsewhere. Vendors will usually drop the price and often quite substantially, particularly for a cash sale. -->
-
-**Living Cost**
-
-The average costs at an average coffee shop or restaurant are as follows:
-- Cup of Coffee: 14-20 AED/$3.8-5.5 USD
-- Sandwich lunch: 15-30 AED/$5-8.2 USD 
-- Evening meal: 30-50 AED/$8.2–13.6 USD
 
 **Taxation**
 
@@ -257,36 +231,61 @@ The UAE does not levy income tax on individuals.
 Value Added Tax is levied on a majority of goods and services.
 
 
+**Time Zone & Business Hours**
+Abu Dhabi is GMT+4.  Most businesses are open from 8am to 6pm, Monday to Friday, with Saturday and Sunday being official holidays for all government departments. Embassies, consulates and government offices operate from 7.30am to 2.30 pm, Monday to Friday.
+
+
+**Tipping & Gratuities**
+
+Tipping practices are similar to most other parts of the world. Most restaurants include a 10% service charge, but tipping in general is at the customer’s discretion.
+
+**Voltage**
+
+Voltage in Abu Dhabi is 220/240.
+
+**Water**
+
+The tap water in Abu Dhabi is safe to drink. But locally bottled water is generally served in hotels and restaurants.
+
+
+<!-- **Bargaining**
+
+Bargaining is expected in the souk and is not unusual elsewhere. Vendors will usually drop the price and often quite substantially, particularly for a cash sale. -->
+
+
+**Visas**
+Visa requirements vary by country of citizenship.
+[Citizens of these countries](...) do not require advance visa arrangements to enter the UAE and can obtain a visa upon arrival for 30 days with a 10-day grace period for extension. [Citizens of these countries](...) do not require advance visa arrangements to enter the UAE and can obtain a visa upon arrival for 90 days. More information about other passports is available [here](https://u.ae/en/information-and-services/visa-and-emirates-id/do-you-need-an-entry-permit-or-a-visa-to-enter-the-uae).
+
 ## FAQs
-
-**Do I need a visa to visit Abu Dhabi?**
-
-Citizens of GCC countries do not require a visa or permit or to be sponsored by a national or resident in the UAE. They need to produce their GCC country passport or national ID card at the point of entry into the UAE. [Citizens of these countries](...) do not require advance visa arrangements to enter the UAE and can obtain a visa upon arrival for 30 days with a 10-day grace period for extension. [Citizens of these countries](...) do not require advance visa arrangements to enter the UAE and can obtain a visa upon arrival for 90 days. More information about other passports is available [here](https://u.ae/en/information-and-services/visa-and-emirates-id/do-you-need-an-entry-permit-or-a-visa-to-enter-the-uae).
-
-**What should I wear in Abu Dhabi?**
-
-Due to the Islamic codes of modesty in Abu Dhabi, there is always a mixture of Western and Arabic styles. Dressing modestly is a sign of respect for the culture and is especially important during Ramadan (the Islamic holy month). Women are basically free to dress as they please, however, tight and revealing clothing would be considered disrespectful to local custom. Sleeves of any length are preferable to sleeveless blouses and dresses. Lightweight summer clothing is appropriate for most of the year. There is no requirement for women to cover their heads, unless visiting a mosque. Because the air conditioning is strong in restaurants, hotels, and other indoor venues, jackets, sweaters and wraps are useful. When visiting government offices, it is best to cover arms and legs. For the beach, while items like shorts, sleeveless shirts and two-piece women's swimsuits are acceptable at the beach itself, we would recommend bringing an outfit with more coverage if you will be leaving the beach or using public transport to get to and from the beach.
-
-![dress](../assets/images/abu_dhabi/dress_ad.jpg)
-
 
 **What is the weather like in the UAE?**
 
-Abu Dhabi has a sub-tropical climate. November to March is the most appealing season, and this is also when infrequent winter rains occur. The temperature range in the winter months is between 56º F (13º C) and 75º F (24º C) with typically bright sunny days which correspond to the best kind of spring weather in the US. Summer temperatures range from a low of around 65º F (18º C) to over 115º F (46º C) and the humidity may be high.
+Abu Dhabi has a sub-tropical climate. November to March is the most appealing season, and this is also when infrequent winter rains occur. The temperature range in the winter months is between 56º F (13º C) and 75º F (24º C) with typically bright sunny days which correspond to the best kind of spring weather in the US. 
+<!-- Summer temperatures range from a low of around 65º F (18º C) to over 115º F (46º C) and the humidity may be high. -->
 
+**What should I wear in Abu Dhabi?**
 
-**What is the timezone?**
+Modest Western and Arabic dress styles are typical in Abu Dhabi.
+People are basically free to dress as they please; however, tight and revealing clothing would be considered disrespectful to local custom. Sleeves of any length are preferable to sleeveless blouses and dresses. Lightweight summer clothing is appropriate for most of the year. There is no requirement for women to cover their heads, unless visiting a mosque. Because the air conditioning is strong in restaurants, hotels, and other indoor venues, jackets, sweaters and wraps are useful. When visiting government offices, it is best to cover arms and legs. For the beach, while items like shorts, sleeveless shirts and two-piece swimsuits are acceptable at the beach itself, we would recommend bringing an outfit with more coverage if you will be leaving the beach or using public transport to get to and from the beach.
 
-Abu Dhabi is GMT+4.
+![dress](/assets/images/abu_dhabi/dress_ad.jpg)
 
 
 **Should I follow certain customs when visiting?**
 
+While the UAE is an Islamic country, its culture is shaped by the large number of expats from all over the globe (90% of the population from 150+ natioinalities). That said,  discretion and modest behavior in public spaces are generally expected.
+Public displays of affection between couples of all orientations and genders are generally discouraged.  Women should face few if any problems when traveling in the UAE.
 
-The UAE is an Islamic country which is a dominant fact of life for the local Emirati population and flavors everyday life for Abu Dhabi’s other residents as well. Much like any cosmopolitan metropolis, both street and pedestrian traffic are lively, as Emiratis and expatriates from around the globe frequent shopping malls, restaurants, sports facilities, and the waterfront area known locally as the Corniche. Despite what may be thought to prevail in other Middle Eastern countries, women should face few if any problems when traveling in the UAE.
 
-Guidebooks and conversations with colleagues offer many suggestions for polite and appropriate behavior in Abu Dhabi. For example, learn a selection of Arabic phrases and use them when greeting new people.
-<!-- When you are seated, make sure the sole of your foot is not pointing directly at anyone, as this would be insulting. Use your right hand to offer an item to another person or to receive items. For example, offer your business card with your right hand; you can receive one with both hands. The business week is Monday through Friday. -->
+**Can I drink in the UAE?**
+
+The legal drinking age in the UAE is 21, except in the Emirate of Sharjah, where alcohol consumption is illegal. Being intoxicated in public is not permitted. Abu Dhabi has a zero tolerance policy, and there are severe fines and penalties for those caught driving while under the influence. 
+
+
+<!--  Guidebooks and conversations with colleagues offer many suggestions for polite and appropriate behavior in Abu Dhabi. For example, learn a selection of Arabic phrases and use them when greeting new people.
+
+When you are seated, make sure the sole of your foot is not pointing directly at anyone, as this would be insulting. Use your right hand to offer an item to another person or to receive items. For example, offer your business card with your right hand; you can receive one with both hands. The business week is Monday through Friday. -->
 
 <!-- Add few nice Arabic phrases here....
 
@@ -296,18 +295,15 @@ Guidebooks and conversations with colleagues offer many suggestions for polite a
 |      |  marhaba | مرحبا|
   -->
 
-**What's an LGBTQI+ identifying person's experience like in the UAE?**
-
-Policies in the UAE vary by Emirate. In Abu Dhabi, there are no LGBTQ-specific laws except for prohibitions on cross-dressing. However, the prohibition is rarely enforced.
-
-**What about public displays of affection?**
-
-The culture of the UAE puts a lot of value on discretion and modest behavior in public spaces. 
-Public displays of affection between couples of all orientations and genders are generally discouraged.
 
 **Is Abu Dhabi dangerous?**
 
-Overall, Abu Dhabi’s general crime level remains very low. Random, violent criminal acts are extremely rare. As in any other city, you should be cognizant of your surroundings and personal safety as you travel. Dress appropriately, and respect the cultural mores by avoiding public displays of affection. Most public areas are well-lit at night, and most public buildings tend to be relatively safe. Crowds are generally nonthreatening and political demonstrations must have governmental approval.
+Abu Dhabi’s general crime level is very low. Random, violent criminal acts are extremely rare. As in any other city, you should be cognizant of your surroundings and personal safety as you travel. 
+
+
+**What's an LGBTQI+ identifying person's experience like in the UAE?**
+
+Policies in the UAE vary by emirate. In Abu Dhabi, there are no LGBTQ-specific laws except for prohibitions on cross-dressing. However, the prohibition is rarely enforced.
 
 
 **How can I travel around the city?**
@@ -315,20 +311,6 @@ Overall, Abu Dhabi’s general crime level remains very low. Random, violent cri
 An inexpensive bus service serves Abu Dhabi, and is operated by the Abu Dhabi Municipality. There are city-wide bus routes, with stops in many residential areas. Taxi service is inexpensive relative to other similar cities; the law requires drivers to use their meters. Taxis are usually available at hotels and malls. Depending on the time of day and rush hour conditions, taxi service can be sporadic. Drivers generally speak some English; be sure your driver knows exactly where you wish to go. 
 
 
-**Which plugs do I use?**
-
-Voltage in Abu Dhabi is 220/240. North American electric shavers, hair dryers, and electric toothbrushes are known to break with the higher voltage and it is therefore advisable to purchase new ones once you are in the region. Computers, cell phones, and Blackberries all have voltage converters built into them, but you may need to use physical plug adapters. Adapters are also available at grocery stores and electronics stores.
-
-**Can I drink in the UAE?**
-
-The legal drinking age in the UAE is 21, except in the Emirate of Sharjah, where alcohol consumption is illegal. Being intoxicated in public is not permitted. Abu Dhabi has a zero tolerance policy, and there are severe fines and penalties for those caught driving while under the influence. 
-
-
-**Does everyone speak English?**
-
-Although Arabic is the official business language, English is widely used in Abu Dhabi. Signs for roads, shops, and restaurants are written in both languages. Urdu and Hindi are also widely spoken.
-
-
 **Is Abu Dhabi an accessible city?**
 
-In the UAE, people with special needs or disabilities are referred to as ‘people of determination’ to recognize their achievements in different fields. Especially in recent years, the UAE government has worked hard to ensure that modern areas and establishments such as cultural sites, hotels, restaurants are fitted with adaptations and services for people of determination. Parking lots include designated spots, public spaces have been updated with proper facilities, and ramps are increasingly commonplace outside public buildings.
+Yes. Modern areas and establishments such as cultural sites, hotels, restaurants are fitted with adaptations and services for people with special needs or disabilities . Parking lots include designated spots, public spaces have been updated with proper facilities, and ramps are increasingly commonplace outside public buildings.
