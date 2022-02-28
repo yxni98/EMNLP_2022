@@ -11,7 +11,7 @@ toc_icon: "cog"
 
 Abu Dhabi is the capital and the second-most populous city of the United Arab Emirates (after Dubai).  Situated on a set of islands in the Persian Gulf, Abu Dhabi is a cosmopolitan city with a very large international presence (90% of residents).  English is the lingua franca. To find out more, please visit [this page](https://visitabudhabi.ae/en).
 
-![abu_dhabi](/assets/images/abu_dhabi/abu_dhabi.jpg)
+![abu_dhabi]({{ site.baseurl }}/assets/images/abu_dhabi/abu_dhabi.jpg)
 
 ## Venue
 
@@ -23,11 +23,11 @@ ADNEC is a multi-award-winning venue offering organizers of exhibitions, confere
 - Web: [https://adnec.ae/](https://adnec.ae/)
 - E-mail: customer.services@adnec.ae
 
-![adnec-1](/assets/images/abu_dhabi/adnec.jpg)
+![adnec-1]({{ site.baseurl }}/assets/images/abu_dhabi/adnec.jpg)
 
 **Floor Plan**
 
-![adnec-4](/assets/images/abu_dhabi/adnec_floor.jpg)
+![adnec-4]({{ site.baseurl }}/assets/images/abu_dhabi/adnec_floor.jpg)
 <!-- ![adnec-1](/assets/images/abu_dhabi/World-class facilities.jpg)
 ![adnec-2](/assets/images/abu_dhabi/BC7A8354-Pano-Edit.jpg)
 ![adnec-3](/assets/images/abu_dhabi/BC7A8054-Pano-Edit-Edit gradient.jpg)
@@ -57,7 +57,7 @@ The COVID-19 global situation is continuously changing. For the latest informati
 Abu Dhabi has an extensive range of modern and traditional hotels featuring internationally recognized brands.
 From budget conscious to 5-star luxury, there is no better place to experience our legendary Arabian Hospitality.
 
-![hotel](/assets/images/abu_dhabi/hotels.png)
+![hotel]({{ site.baseurl }}/assets/images/abu_dhabi/hotels.png)
 
 These hotels are **two minutes away on foot** to the venue of EMNLP2022:
 - [Andaz Capital Gate Abu Dhabi](https://www.hyatt.com/en-US/hotel/united-arab-emirates/andaz-capital-gate-abu-dhabi/abdcc)
@@ -68,7 +68,7 @@ These hotels are **two minutes away on foot** to the venue of EMNLP2022:
 - [Centro Capital Centre](https://www.rotana.com/centrohotels/unitedarabemirates/abudhabi/centrocapitalcentre)
 
 
-![airbnb](/assets/images/abu_dhabi/airbnb_logo.png){: .align-center}
+![airbnb]({{ site.baseurl }}/assets/images/abu_dhabi/airbnb_logo.png){: .align-center}
 
 Low-cost AirBnB affordable accommodations are also available in Abu Dhabi.
 <!-- The listings range from family-friendly/students offering selection of listings equipped with kitchens, washer/dryer, and WiFi.
@@ -88,37 +88,37 @@ Please check with the specific hotel where you plan to stay for childcare suppor
 **Emirates Palace**
 
 Located in the heart of Abu Dhabi, Emirates Palace is one of the capital's most well-known landmarks. It is known for its enchanting Arabesque style, award-winning five-star hospitality and wonderfully unique and authentic local experiences. Directions can be found [here](https://www.google.ae/maps/dir/Current+Location/Emirate%20Palace,Abu%20Dhabi/@24.461644,54.317283).
-![](/assets/images/abu_dhabi/ep2.jpeg)
+![]({{ site.baseurl }}/assets/images/abu_dhabi/ep2.jpeg)
 
 **Louvre Abu Dhabi**
 
 The iconic Louvre Abu Dhabi is the first universal museum in the Arab World, translating and fostering the spirit of openness between cultures. As one of the premier cultural institutions located in the heart of the Saadiyat Cultural District on [Saadiyat Island](https://visitabudhabi.ae/en/where-to-go/islands/saadiyat-island), this art-lovers’ dream displays works of historical, cultural and sociological significance, from ancient times to the contemporary era. Directions can be found [here](https://www.google.ae/maps/dir/Current+Location/Louvre%20Abu%20Dhabi,Abu%20Dhabi/@24.533698,54.398137).
 
-![](/assets/images/abu_dhabi/louvre_1.jpeg)
+![]({{ site.baseurl }}/assets/images/abu_dhabi/louvre_1.jpeg)
 
 **Sheikh Zayed Grand Mosque**
 
 The impressive and inspiring Sheikh Zayed Grand Mosque is one of the world’s largest mosques and the only one that captures the unique interactions between Islam and other world cultures. Sheikh Zayed bin Sultan Al Nahyan, the Founder of the UAE, had a very specific vision for this mosque: to incorporate architectural styles from different Muslim civilizations and celebrate cultural diversity by creating a haven that is truly welcoming and inspirational in its foundation. The mosque’s architects were British, Italian and Emirati, with design ideas borrowed from parts of Turkey, Morocco, Pakistan and Egypt, among other Islamic countries. Directions can be found [here](https://www.google.ae/maps/dir/Current+Location/Sheikh%20Zayed%20Grand%20Mosque,Abu%20Dhabi/@24.412837,54.474976).
 
-![](/assets/images/abu_dhabi/mosque_1.jpeg)
+![]({{ site.baseurl }}/assets/images/abu_dhabi/mosque_1.jpeg)
 
 **Qasr Al Hosn**
 
 Over the centuries, Qasr Al Hosn has been home to the ruling family, acted as the seat of government, housed the National Consultative Council founded by the late Sheikh Zayed Bin Sultan Al Nahyan, Founder of the UAE, as well as being a national archive. Today it stands as the nation's living memorial and a narrator of Abu Dhabi's history. Directions can be found [here](https://www.google.ae/maps/dir/Current+Location/Qasr%20Al%20Hosn,Abu%20Dhabi/@24.482239,54.354842).
 
-![](/assets/images/abu_dhabi/Qasr-Al-Hosn-04.jpeg)
+![]({{ site.baseurl }}/assets/images/abu_dhabi/Qasr-Al-Hosn-04.jpeg)
 
 **The National Aquarium Abu Dhabi**
 
 The largest aquarium in the Middle East, The National Aquarium in Al Qana is literally swimming with aquatic wildlife featuring over 46,000 animals from more than 300 unique species. Spread across 10 nautically-themed zones, from the UAE’s Natural Treasures, sunken sea wrecks and Atlantic caves, right through to flooded forests, fiery volcanoes and a frozen ocean, there are more than 60 attractions that will be sure to delight and excite the whole family. Directions can be found [here](https://www.google.ae/maps/dir/Current+Location/The%20National%20Aquarium%20Abu%20Dhabi,Abu%20Dhabi/@24.402209,54.49634).
 
-![](/assets/images/abu_dhabi/aquarium.jpeg)
+![]({{ site.baseurl }}/assets/images/abu_dhabi/aquarium.jpeg)
 
 **Yas Island**
 
 This family-friendly entertainment hub is just a 30-minute drive from the city and a 15-minute drive from Abu Dhabi International Airport. Yas Island is home to an F1™ race track, several theme parks, an incredible links golf course, beautiful beach, stunning hotels, an impressive mall and much more. It's the perfect place to bring the kids, from toddler to teen, for a fun-filled holiday by the sea.
 
-![](/assets/images/abu_dhabi/yas_1.jpeg)
+![]({{ site.baseurl }}/assets/images/abu_dhabi/yas_1.jpeg)
 <!-- ![](/assets/images/abu_dhabi/yas_2.jpeg)
 ![](/assets/images/abu_dhabi/yas_3.jpeg) -->
 
@@ -126,7 +126,7 @@ This family-friendly entertainment hub is just a 30-minute drive from the city a
 
 Jubail Mangrove Park is home to meandering boardwalks that allow you to wander through the mangroves, discovering a nature-rich side to Abu Dhabi and spotting an array of wildlife, from turtles to herons, gazelle and more. Birdwatchers, nature-lovers and photographers will be in their element here. Directions can be found [here](https://www.google.ae/maps/dir/Current+Location/Jubail%20Mangrove%20Park,Abu%20Dhabi/@24.545194,54.485399)
 
-![](/assets/images/abu_dhabi/jubail_mangrove.jpeg)
+![]({{ site.baseurl }}/assets/images/abu_dhabi/jubail_mangrove.jpeg)
 
 ### Abu Dhabi Beaches
 **[Soul Beach Saadiyat Island](https://www.google.ae/maps/dir/Current+Location/Soul%20Beach,Abu%20Dhabi/@24.53966171946439,54.41035367059425)**
@@ -139,7 +139,7 @@ Tucked away in Saadiyat Island, Soul Beach is Saadiyat Island’s new captivatin
 **[Yas Beach](https://www.google.ae/maps/dir/Current+Location/Yas%20Beach,Abu%20Dhabi/@24.462087,54.592183)**
 Set on a majestic stretch of white sand, sun-seekers holidaying at any of Yas Island’s hotels and hotel apartments can enjoy complimentary access to the island’s crystal clear waters and natural mangrove surrounds.
 
-![](/assets/images/abu_dhabi/beach.jpeg)
+![]({{ site.baseurl }}/assets/images/abu_dhabi/beach.jpeg)
 
 ### Tours
 Details coming soon.
@@ -172,7 +172,7 @@ Abu Dhabi has a range of impressive dining options to offer, with stylish restau
 Dubai is only 140km (1 hour and 20 minutes by car) away from Abu Dhabi.
 To find out more, please visit [here](https://www.visitdubai.com/).
 
-![dubai](/assets/images/abu_dhabi/burj-khalifa_01.jpeg)
+![dubai]({{ site.baseurl }}/assets/images/abu_dhabi/burj-khalifa_01.jpeg)
 
 ## Important Information
 
@@ -269,7 +269,7 @@ Abu Dhabi has a sub-tropical climate. November to March is the most appealing se
 Modest Western and Arabic dress styles are typical in Abu Dhabi.
 People are basically free to dress as they please; however, tight and revealing clothing would be considered disrespectful to local custom. Sleeves of any length are preferable to sleeveless blouses and dresses. Lightweight summer clothing is appropriate for most of the year. There is no requirement for women to cover their heads, unless visiting a mosque. Because the air conditioning is strong in restaurants, hotels, and other indoor venues, jackets, sweaters and wraps are useful. When visiting government offices, it is best to cover arms and legs. For the beach, while items like shorts, sleeveless shirts and two-piece swimsuits are acceptable at the beach itself, we would recommend bringing an outfit with more coverage if you will be leaving the beach or using public transport to get to and from the beach.
 
-![dress](/assets/images/abu_dhabi/dress_ad.jpg)
+![dress]({{ site.baseurl }}/assets/images/abu_dhabi/dress_ad.jpg)
 
 
 **Should I follow certain customs when visiting?**
