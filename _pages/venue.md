@@ -30,7 +30,7 @@ EMNLP 2022 will take place in the Abu Dhabi National Exhibition Centre (ADNEC):
 
 ADNEC is a multi-award-winning venue offering organizers of exhibitions, conferences, and events outstanding facilities spread over a total space of 151,000 square meters. ADNEC is just 15 minutes away from the rapidly expanding Abu Dhabi International Airport which serves over 50 airlines and 100 destinations in 46 countries around the globe. It is only 20 minutes from downtown Abu Dhabi and 90 minutes from Dubai International Airport.
 
-![adnec-1](/assets/images/abu_dhabi/adnec.jpg)
+![adnec-1](../assets/images/abu_dhabi/adnec.jpg)
 
 **Floor Plan**
 
