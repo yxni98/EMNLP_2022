@@ -150,20 +150,20 @@ Jubail Mangrove Park is home to meandering boardwalks that allow you to wander t
 ### Food and Restaurants
 Abu Dhabi has a range of impressive dining options to offer, with stylish restaurants, cafés and bistros serving cuisines from around the globe. NLP researchers at NYU Abu Dhabi recommend the following places:
 
-- [Arabic](): Al Fanar, Beirut Sur Mer, Abd El Wahab.
+- Arabic: [Al Fanar](), [Beirut Sur Mer](), [Abd El Wahab]().
 
-- [Mediterranean](): Larte, Carluccio's, Eat Greek Kouzina
+- Mediterranean: [Larte](), [Carluccio's](), [Eat Greek Kouzina](), [Bosporus]()
 
-- [South Asian](): Asha's, 
+- South Asian: [Asha's]()
 
-- [East Asian](): Zuma, Niri, Seven Hotpot
+- East Asian: [Zuma](), [Niri](), [Seven Hotpot]()
 
-- [American](): Black Tap.
+- American: [Black Tap]()
 
 
 ### Dubai
 
-Dubai is only 140km away from Abu Dhabi.
+Dubai is only 140km (1 hour and 20 minutes by car) away from Abu Dhabi.
 To find out more, please visit [here](https://www.visitdubai.com/).
 
 ![dubai](/assets/images/abu_dhabi/burj-khalifa_01.jpeg)
