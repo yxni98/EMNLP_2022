@@ -58,12 +58,7 @@ a taxi in advance by either using the Abu Dhabi Taxi App ([AppStore](https://app
 
 ## COVID-19 Testing and Medical Assistance
 
-## Other health recommendations
-
-
-## Other health recommendations
-
-
+### Other health recommendations
 
 
 ## Accommodation Information
@@ -291,5 +286,3 @@ Although Arabic is the official business language, English is widely used in Abu
 
 ### Is Abu Dhabi an accessible city?
 In the UAE, people with special needs or disabilities are referred to as ‘people of determination’ to recognize their achievements in different fields. Especially in recent years, the UAE government has worked hard to ensure that modern areas and establishments such as cultural sites, hotels, restaurants are fitted with adaptations and services for people of determination. Parking lots include designated spots, public spaces have been updated with proper facilities, and ramps are increasingly commonplace outside public buildings.
-
-## Childcare
