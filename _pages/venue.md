@@ -105,6 +105,7 @@ Please check with the specific hotel where you plan to stay for childcare suppor
 **Emirates Palace**
 
 Located in the heart of Abu Dhabi, Emirates Palace is one of the capital's most well-known landmarks. It is known for its enchanting Arabesque style, award-winning five-star hospitality and wonderfully unique and authentic local experiences. Directions can be found [here](https://www.google.ae/maps/dir/Current+Location/Emirate%20Palace,Abu%20Dhabi/@24.461644,54.317283).
+
 ![]({{ site.baseurl }}/assets/images/abu_dhabi/ep2.jpeg)
 
 **Louvre Abu Dhabi**
