@@ -67,11 +67,27 @@ a taxi in advance by either using the Abu Dhabi Taxi App ([AppStore](https://app
 
 
 ## Accommodation Information
+Abu Dhabi has an extensive range of modern and traditional hotels featuring internationally recognized brands.
+From budget conscious to 5-star luxury, there is no better place to experience our legendary Arabian Hospitality.
+
+![hotel](/assets/images/abu_dhabi/hotels.png)
+
+These hotels are two minutes away on foot to the venue of EMNLP2022:
+- [Andaz Capital Gate Abu Dhabi](https://www.hyatt.com/en-US/hotel/united-arab-emirates/andaz-capital-gate-abu-dhabi/abdcc)
+- [Pearl Rotana Capital Centre](https://www.rotana.com/rotanahotelandresorts/unitedarabemirates/abudhabi/pearlrotana)
+- [Aloft Abu Dhabi Hotel](https://www.marriott.com/en-us/hotels/auhnl-aloft-abu-dhabi/overview/)
+- [Capital Centre Arjaan](https://www.rotana.com/arjaanhotelapartments/unitedarabemirates/abudhabi/capitalcentrearjaanbyrotana)
+- [Premier Inn Abu Dhabi Capital Centre](https://mena.premierinn.com/en/hotel/abu-dhabi-capital-centre)
+- [Centro Capital Centre](https://www.rotana.com/centrohotels/unitedarabemirates/abudhabi/centrocapitalcentre)
 
 
+![airbnb](/assets/images/abu_dhabi/airbnb_logo.png){: .align-center}
 
+Low-cost AirBnB affordable accommodations are also available in Abu Dhabi.
+The listings range from family-friendly/students offering selection of listings equipped with kitchens, washer/dryer, and WiFi.
+From extra rooms to swimming pools, airbnb family friendly listings provide plenty of space to accommodate the whole family.
 
-## Student Accommodation
+### Student Accommodation
 
 
 
