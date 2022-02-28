@@ -43,18 +43,16 @@ ADNEC is a multi-award-winning venue offering organizers of exhibitions, confere
 <!-- ![adnec-1](/assets/images/abu_dhabi/20191230_ADNEC Venue_153.jpg)
 ![adnec-1](/assets/images/abu_dhabi/20191230_ADNEC Venue_153.jpg) -->
 
-## Transportation and Tours
+## Transportation
 
-### Access to the Venue
-- If you are traveling by car from Abu Dhabi Airport, ADNEC is just a 20-minute drive. From Abu Dhabi Corniche, ADNEC is located just 15 minutes away.
-- Taxis are available throughout Abu Dhabi and they are quiet convenient and 
+<!-- ### Access to the Venue -->
+- ADNEC is just a 20-minute car ride from **Abu Dhabi Airport**.
+From Abu Dhabi Corniche, ADNEC is located just 15 minutes away.
+- **Taxis** are available throughout Abu Dhabi and they are quiet convenient and 
 affordable. Abu Dhabi’s taxi network is operated by TransAD. You can book 
 a taxi in advance by either using the Abu Dhabi Taxi App ([AppStore](https://apps.apple.com/ae/app/abu-dhabi-taxi/id613114167), [Google Play](https://play.google.com/store/apps/details?id=transad.abudhabi.taxi)) or by calling 600 53 53 53. A number of taxis are available from ADNEC at the adjacent Aloft Hotel entrance. UBER is also available in Abu Dhabi but it is generally a bit more expensive than taxis.
 <!-- Add a bit about CAREEM -->
-- Buses are also available around Abu Dhabi and ADNEC is serviced by bus number 040, seven days a week. For more information on bus routes, services and fares please see the [Department of Transport website](https://itc.gov.ae/en/info/Abu_Dhabi_Region_Bus_Services).
-
-### Tours
-- TBD
+- **Buses** are also available around Abu Dhabi and ADNEC is serviced by bus number 040, seven days a week. For more information on bus routes, services and fares please see the [Department of Transport website](https://itc.gov.ae/en/info/Abu_Dhabi_Region_Bus_Services).
 
 ## COVID-19 Testing and Medical Assistance
 
@@ -138,6 +136,9 @@ Tucked away in Saadiyat Island, Soul Beach is Saadiyat Island’s new captivatin
 **[Yas Beach](https://www.google.ae/maps/dir/Current+Location/Yas%20Beach,Abu%20Dhabi/@24.462087,54.592183)**: Set on a majestic stretch of white sand, sun-seekers holidaying at any of Yas Island’s hotels and hotel apartments can enjoy complimentary access to the island’s crystal clear waters and natural mangrove surrounds.
 
 ![](/assets/images/abu_dhabi/beach.jpeg)
+
+### Tours
+Details coming soon.
 
 <!-- **Night Life**: -->
 
