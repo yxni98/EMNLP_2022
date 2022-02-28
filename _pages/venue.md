@@ -22,8 +22,8 @@ ADNEC is a multi-award-winning venue offering organizers of exhibitions, confere
 
 - Address: Abu Dhabi National Exhibitions Company, Khaleej Al Arabi Street, P.O. Box 5546, Abu Dhabi, United Arab Emirates
 - Phone: +971 (0) 2 444 6900
-- Web: [https://adnec.ae/](https://adnec.ae/)
-- E-mail: customer.services@adnec.ae
+- Web: <https://adnec.ae>
+- E-mail: <customer.services@adnec.ae>
 
 ![adnec-1]({{ site.baseurl }}/assets/images/abu_dhabi/adnec.jpg)
 
