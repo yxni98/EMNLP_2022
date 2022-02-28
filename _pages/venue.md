@@ -280,7 +280,8 @@ Add few nice Arabic phrases here....
 
 Policies in the UAE vary by Emirate. In Abu Dhabi, there are no LGBTQ-specific laws except for prohibitions on cross-dressing. However, the prohibition is rarely enforced.
 
-**What about public displays of affection?
+**What about public displays of affection?**
+
 The culture of the UAE puts a lot of value on discretion and modest behavior in public spaces. 
 Public displays of affection between couples of all orientations and genders are generally discouraged.
 
