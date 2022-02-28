@@ -58,7 +58,7 @@ a taxi in advance by either using the Abu Dhabi Taxi App ([AppStore](https://app
 
 ## COVID-19 Testing and Medical Assistance
 
-### Other health recommendations
+**Other health recommendations**
 
 
 ## Accommodation Information
