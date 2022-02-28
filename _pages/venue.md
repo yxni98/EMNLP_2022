@@ -82,10 +82,6 @@ Low-cost AirBnB affordable accommodations are also available in Abu Dhabi.
 The listings range from family-friendly/students offering selection of listings equipped with kitchens, washer/dryer, and WiFi.
 From extra rooms to swimming pools, airbnb family friendly listings provide plenty of space to accommodate the whole family.
 
-### Student Accommodation
-
-
-
 
 ## Welcome Reception and Social Event
 
