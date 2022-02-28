@@ -91,49 +91,59 @@ Please check with the hotels for childcare support.
 
 ### Abu Dhabi Landmarks
 
-**Emirates Palace**:
+**Emirates Palace**
+
 Located in the heart of Abu Dhabi, Emirates Palace is one of the capital's most well-known landmarks. It is known for its enchanting Arabesque style, award-winning five-star hospitality and wonderfully unique and authentic local experiences. Directions can be found [here](https://www.google.ae/maps/dir/Current+Location/Emirate%20Palace,Abu%20Dhabi/@24.461644,54.317283).
 ![](/assets/images/abu_dhabi/ep2.jpeg)
 
-**Louvre Abu Dhabi**:
+**Louvre Abu Dhabi**
+
 The iconic Louvre Abu Dhabi is the first universal museum in the Arab World, translating and fostering the spirit of openness between cultures. As one of the premier cultural institutions located in the heart of the Saadiyat Cultural District on [Saadiyat Island](https://visitabudhabi.ae/en/where-to-go/islands/saadiyat-island), this art-lovers’ dream displays works of historical, cultural and sociological significance, from ancient times to the contemporary era. Directions can be found [here](https://www.google.ae/maps/dir/Current+Location/Louvre%20Abu%20Dhabi,Abu%20Dhabi/@24.533698,54.398137).
 
 ![](/assets/images/abu_dhabi/louvre_1.jpeg)
 
-**Sheikh Zayed Grand Mosque**:
+**Sheikh Zayed Grand Mosque**
+
 The impressive and inspiring Sheikh Zayed Grand Mosque is one of the world’s largest mosques and the only one that captures the unique interactions between Islam and other world cultures. Sheikh Zayed bin Sultan Al Nahyan, the Founder of the UAE, had a very specific vision for this mosque: to incorporate architectural styles from different Muslim civilizations and celebrate cultural diversity by creating a haven that is truly welcoming and inspirational in its foundation. The mosque’s architects were British, Italian and Emirati, with design ideas borrowed from parts of Turkey, Morocco, Pakistan and Egypt, among other Islamic countries. Directions can be found [here](https://www.google.ae/maps/dir/Current+Location/Sheikh%20Zayed%20Grand%20Mosque,Abu%20Dhabi/@24.412837,54.474976).
 
 ![](/assets/images/abu_dhabi/mosque_1.jpeg)
 
-**Qasr Al Hosn**:
+**Qasr Al Hosn**
+
 Over the centuries, Qasr Al Hosn has been home to the ruling family, acted as the seat of government, housed the National Consultative Council founded by the late Sheikh Zayed Bin Sultan Al Nahyan, Founder of the UAE, as well as being a national archive. Today it stands as the nation's living memorial and a narrator of Abu Dhabi's history. Directions can be found [here](https://www.google.ae/maps/dir/Current+Location/Qasr%20Al%20Hosn,Abu%20Dhabi/@24.482239,54.354842).
 
 ![](/assets/images/abu_dhabi/Qasr-Al-Hosn-04.jpeg)
 
-**The National Aquarium Abu Dhabi**:
+**The National Aquarium Abu Dhabi**
+
 The largest aquarium in the Middle East, The National Aquarium in Al Qana is literally swimming with aquatic wildlife featuring over 46,000 animals from more than 300 unique species. Spread across 10 nautically-themed zones, from the UAE’s Natural Treasures, sunken sea wrecks and Atlantic caves, right through to flooded forests, fiery volcanoes and a frozen ocean, there are more than 60 attractions that will be sure to delight and excite the whole family. Directions can be found [here](https://www.google.ae/maps/dir/Current+Location/The%20National%20Aquarium%20Abu%20Dhabi,Abu%20Dhabi/@24.402209,54.49634).
 
 ![](/assets/images/abu_dhabi/aquarium.jpeg)
 
-**Yas Island**:
+**Yas Island**
+
 This landmark, family-friendly entertainment hub is just a 30-minute drive from the city and a 15-minute drive from Abu Dhabi International Airport. Yas Island is home to an F1™ race track, several theme parks, an incredible links golf course, beautiful beach, stunning hotels, an impressive mall and much more. It's the perfect place to bring the kids, from toddler to teen, for a fun-filled holiday by the sea.
 
 ![](/assets/images/abu_dhabi/yas_1.jpeg)
 <!-- ![](/assets/images/abu_dhabi/yas_2.jpeg)
 ![](/assets/images/abu_dhabi/yas_3.jpeg) -->
 
-**Jubail Mangrove Park**:
+**Jubail Mangrove Park**
+
 Jubail Mangrove Park is home to meandering boardwalks that allow you to wander through the mangroves, discovering a nature-rich side to Abu Dhabi and spotting an array of wildlife, from turtles to herons, gazelle and more. Birdwatchers, nature-lovers and photographers will be in their element here. Directions can be found [here](https://www.google.ae/maps/dir/Current+Location/Jubail%20Mangrove%20Park,Abu%20Dhabi/@24.545194,54.485399)
 
 ![](/assets/images/abu_dhabi/jubail_mangrove.jpeg)
 
 ### Abu Dhabi Beaches
-**[Soul Beach Saadiyat Island](https://www.google.ae/maps/dir/Current+Location/Soul%20Beach,Abu%20Dhabi/@24.53966171946439,54.41035367059425)**:
+**[Soul Beach Saadiyat Island](https://www.google.ae/maps/dir/Current+Location/Soul%20Beach,Abu%20Dhabi/@24.53966171946439,54.41035367059425)**
+
 Tucked away in Saadiyat Island, Soul Beach is Saadiyat Island’s new captivating beachfront location, part of the Mamsha Al Saadiyat community.
 
-**[Saadiyat Beach](https://www.google.ae/maps/dir/Current+Location/Saadiyat%20Beach,Abu%20Dhabi/@24.548873,54.436608)**: With pristine white sands stretching out along a generous shore, Saadiyat Beach maintains its reputation as one of the most desirable beach locations in the UAE.
+**[Saadiyat Beach](https://www.google.ae/maps/dir/Current+Location/Saadiyat%20Beach,Abu%20Dhabi/@24.548873,54.436608)**
+ With pristine white sands stretching out along a generous shore, Saadiyat Beach maintains its reputation as one of the most desirable beach locations in the UAE.
 
-**[Yas Beach](https://www.google.ae/maps/dir/Current+Location/Yas%20Beach,Abu%20Dhabi/@24.462087,54.592183)**: Set on a majestic stretch of white sand, sun-seekers holidaying at any of Yas Island’s hotels and hotel apartments can enjoy complimentary access to the island’s crystal clear waters and natural mangrove surrounds.
+**[Yas Beach](https://www.google.ae/maps/dir/Current+Location/Yas%20Beach,Abu%20Dhabi/@24.462087,54.592183)**
+Set on a majestic stretch of white sand, sun-seekers holidaying at any of Yas Island’s hotels and hotel apartments can enjoy complimentary access to the island’s crystal clear waters and natural mangrove surrounds.
 
 ![](/assets/images/abu_dhabi/beach.jpeg)
 
@@ -204,9 +214,9 @@ The national language of the UAE is Arabic. However English is also very widely 
 
 Normal tourist photography is welcome but, as elsewhere in the world, it is courteous and wise to ask permission before photographing other people.
 
-**Public Holidays**
+<!-- **Public Holidays**
 
-Islamic holidays are based on the Hijri calendar which is controlled by the sighting of the moon. As a result the dates of holidays are often confirmed less than 24 hours in advance. Some of these are Eid Al Fitr (three days), Eid Al Adha (four days) and Al Hejra (one day). Fixed dates on the calendar are New Year’s Day (Jan 1) and UAE National Day (Dec 2).
+Islamic holidays are based on the Hijri calendar which is controlled by the sighting of the moon. As a result the dates of holidays are often confirmed less than 24 hours in advance. Some of these are Eid Al Fitr (three days), Eid Al Adha (four days) and Al Hejra (one day). Fixed dates on the calendar are New Year’s Day (Jan 1) and UAE National Day (Dec 2). -->
 
 **Security**
 
@@ -223,25 +233,28 @@ The tap water in Abu Dhabi is safe to drink. But locally bottled water is genera
 
 **Business hours**
 
-Most businesses are open from 8am to 6pm, Saturday to Thursday, with Friday and Saturday being official holidays for all government departments. Embassies, consulates and government offices operate from 7.30am to 2.30 pm, Sunday to Thursday.
+Most businesses are open from 8am to 6pm, Monday to Friday, with Saturday and Sunday being official holidays for all government departments. Embassies, consulates and government offices operate from 7.30am to 2.30 pm, Monday to Friday.
 
 **Currency**
 
 The monetary unit is the Dirham (AED), which is divided into 100 fils. The exchange rate is pegged to the US Dollar at the rate $1 = AED 3.675
 
-**Bargaining**
+<!-- **Bargaining**
 
-Bargaining is expected in the souk and is not unusual elsewhere. Vendors will usually drop the price and often quite substantially, particularly for a cash sale.
+Bargaining is expected in the souk and is not unusual elsewhere. Vendors will usually drop the price and often quite substantially, particularly for a cash sale. -->
 
 **Living Cost**
 
 The average costs at an average coffee shop or restaurant are as follows:
-- Cup of Coffee – 14-20 AED/$3.8-5.5 USD
-- Sandwich lunch – 15-30 AED/$5-8.2 USD • Evening meal – 30-50 AED/$8.2–13.6 USD
+- Cup of Coffee: 14-20 AED/$3.8-5.5 USD
+- Sandwich lunch: 15-30 AED/$5-8.2 USD 
+- Evening meal: 30-50 AED/$8.2–13.6 USD
 
 **Taxation**
 
-The UAE does not levy income tax on individuals. However, it levies corporate tax on oil companies and foreign banks. Excise tax is levied on specific goods which are typically harmful to human health or the environment. Value Added Tax is levied on a majority of goods and services.
+The UAE does not levy income tax on individuals. 
+<!-- However, it levies corporate tax on oil companies and foreign banks. Excise tax is levied on specific goods which are typically harmful to human health or the environment.  -->
+Value Added Tax is levied on a majority of goods and services.
 
 
 ## FAQs
@@ -275,13 +288,13 @@ The UAE is an Islamic country which is a dominant fact of life for the local Emi
 Guidebooks and conversations with colleagues offer many suggestions for polite and appropriate behavior in Abu Dhabi. For example, learn a selection of Arabic phrases and use them when greeting new people.
 <!-- When you are seated, make sure the sole of your foot is not pointing directly at anyone, as this would be insulting. Use your right hand to offer an item to another person or to receive items. For example, offer your business card with your right hand; you can receive one with both hands. The business week is Monday through Friday. -->
 
-Add few nice Arabic phrases here....
+<!-- Add few nice Arabic phrases here....
 
 | English | Pronunciation |  عربي |
 |------|-------|-------|
 | Hello | as-salamu alaykum | السلام عليكم|
 |      |  marhaba | مرحبا|
- 
+  -->
 
 **What's an LGBTQI+ identifying person's experience like in the UAE?**
 
