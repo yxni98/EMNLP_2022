@@ -91,7 +91,7 @@ From extra rooms to swimming pools, airbnb family friendly listings provide plen
 
 ## Places to Visit
 
-### Landmarks
+### Abu Dhabi Landmarks
 
 **Emirates Palace**:
 Located in the heart of Abu Dhabi, Emirates Palace is one of the capital's most well-known landmarks. It is known for its enchanting Arabesque style, award-winning five-star hospitality and wonderfully unique and authentic local experiences. Directions can be found [here](https://www.google.ae/maps/dir/Current+Location/Emirate%20Palace,Abu%20Dhabi/@24.461644,54.317283).
@@ -129,12 +129,13 @@ Jubail Mangrove Park is home to meandering boardwalks that allow you to wander t
 
 ![](/assets/images/abu_dhabi/jubail_mangrove.jpeg)
 
-**Beaches**:
-- [Soul Beach Saadiyat Island](https://www.google.ae/maps/dir/Current+Location/Soul%20Beach,Abu%20Dhabi/@24.53966171946439,54.41035367059425): Tucked away in Saadiyat Island, Soul Beach is Saadiyat Island’s new captivating beachfront location, part of the Mamsha Al Saadiyat community.
+### Abu Dhabi Beaches
+**[Soul Beach Saadiyat Island](https://www.google.ae/maps/dir/Current+Location/Soul%20Beach,Abu%20Dhabi/@24.53966171946439,54.41035367059425)**:
+Tucked away in Saadiyat Island, Soul Beach is Saadiyat Island’s new captivating beachfront location, part of the Mamsha Al Saadiyat community.
 
-- [Saadiyat Beach](https://www.google.ae/maps/dir/Current+Location/Saadiyat%20Beach,Abu%20Dhabi/@24.548873,54.436608): With pristine white sands stretching out along a generous shore, Saadiyat Beach maintains its reputation as one of the most desirable beach locations in the UAE.
+**[Saadiyat Beach](https://www.google.ae/maps/dir/Current+Location/Saadiyat%20Beach,Abu%20Dhabi/@24.548873,54.436608)**: With pristine white sands stretching out along a generous shore, Saadiyat Beach maintains its reputation as one of the most desirable beach locations in the UAE.
 
-- [Yas Beach](https://www.google.ae/maps/dir/Current+Location/Yas%20Beach,Abu%20Dhabi/@24.462087,54.592183): Set on a majestic stretch of white sand, sun-seekers holidaying at any of Yas Island’s hotels and hotel apartments can enjoy complimentary access to the island’s crystal clear waters and natural mangrove surrounds.
+**[Yas Beach](https://www.google.ae/maps/dir/Current+Location/Yas%20Beach,Abu%20Dhabi/@24.462087,54.592183)**: Set on a majestic stretch of white sand, sun-seekers holidaying at any of Yas Island’s hotels and hotel apartments can enjoy complimentary access to the island’s crystal clear waters and natural mangrove surrounds.
 
 ![](/assets/images/abu_dhabi/beach.jpeg)
 
