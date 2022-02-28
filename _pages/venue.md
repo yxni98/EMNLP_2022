@@ -1,5 +1,5 @@
 ---
-title: Venue and accomodations
+title: Venue
 layout: single
 permalink: /venue
 toc: true
@@ -18,7 +18,7 @@ culture is very much alive. Visitors can see craftsmen demonstrating ancient ski
 To find out more, please visit this [page](https://visitabudhabi.ae/en).
 
 ![abu_dhabi](/assets/images/abu_dhabi/abu_dhabi.jpg)
-
+.....
 <!-- <style>	
     .column {
         float: left;
