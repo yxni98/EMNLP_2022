@@ -100,43 +100,45 @@ From extra rooms to swimming pools, airbnb family friendly listings provide plen
 
 ## Places to Visit
 
-### Emirates Palace
- Located in the heart of Abu Dhabi, Emirates Palace is one of the capital's most well-known landmarks. It is known for its enchanting Arabesque style, award-winning five-star hospitality and wonderfully unique and authentic local experiences. Directions can be found [here](https://www.google.ae/maps/dir/Current+Location/Emirate%20Palace,Abu%20Dhabi/@24.461644,54.317283).
+### Landmarks
+
+**Emirates Palace**:
+Located in the heart of Abu Dhabi, Emirates Palace is one of the capital's most well-known landmarks. It is known for its enchanting Arabesque style, award-winning five-star hospitality and wonderfully unique and authentic local experiences. Directions can be found [here](https://www.google.ae/maps/dir/Current+Location/Emirate%20Palace,Abu%20Dhabi/@24.461644,54.317283).
 ![](/assets/images/abu_dhabi/ep2.jpeg)
 
-### Louvre Abu Dhabi
+**Louvre Abu Dhabi**:
 The iconic Louvre Abu Dhabi is the first universal museum in the Arab World, translating and fostering the spirit of openness between cultures. As one of the premier cultural institutions located in the heart of the Saadiyat Cultural District on [Saadiyat Island](https://visitabudhabi.ae/en/where-to-go/islands/saadiyat-island), this art-lovers’ dream displays works of historical, cultural and sociological significance, from ancient times to the contemporary era. Directions can be found [here](https://www.google.ae/maps/dir/Current+Location/Louvre%20Abu%20Dhabi,Abu%20Dhabi/@24.533698,54.398137).
 
 ![](/assets/images/abu_dhabi/louvre_1.jpeg)
 
-### Sheikh Zayed Grand Mosque
+**Sheikh Zayed Grand Mosque**:
 The impressive and inspiring Sheikh Zayed Grand Mosque is one of the world’s largest mosques and the only one that captures the unique interactions between Islam and other world cultures. Sheikh Zayed bin Sultan Al Nahyan, the Founder of the UAE, had a very specific vision for this mosque: to incorporate architectural styles from different Muslim civilizations and celebrate cultural diversity by creating a haven that is truly welcoming and inspirational in its foundation. The mosque’s architects were British, Italian and Emirati, with design ideas borrowed from parts of Turkey, Morocco, Pakistan and Egypt, among other Islamic countries. Directions can be found [here](https://www.google.ae/maps/dir/Current+Location/Sheikh%20Zayed%20Grand%20Mosque,Abu%20Dhabi/@24.412837,54.474976).
 
 ![](/assets/images/abu_dhabi/mosque_1.jpeg)
 
-### Qasr Al Hosn
+**Qasr Al Hosn**:
 Over the centuries, Qasr Al Hosn has been home to the ruling family, acted as the seat of government, housed the National Consultative Council founded by the late Sheikh Zayed Bin Sultan Al Nahyan, Founder of the UAE, as well as being a national archive. Today it stands as the nation's living memorial and a narrator of Abu Dhabi's history. Directions can be found [here](https://www.google.ae/maps/dir/Current+Location/Qasr%20Al%20Hosn,Abu%20Dhabi/@24.482239,54.354842).
 
 ![](/assets/images/abu_dhabi/Qasr-Al-Hosn-04.jpeg)
 
-### The National Aquarium Abu Dhabi
+**The National Aquarium Abu Dhabi**:
 The largest aquarium in the Middle East, The National Aquarium in Al Qana is literally swimming with aquatic wildlife featuring over 46,000 animals from more than 300 unique species. Spread across 10 nautically-themed zones, from the UAE’s Natural Treasures, sunken sea wrecks and Atlantic caves, right through to flooded forests, fiery volcanoes and a frozen ocean, there are more than 60 attractions that will be sure to delight and excite the whole family. Directions can be found [here](https://www.google.ae/maps/dir/Current+Location/The%20National%20Aquarium%20Abu%20Dhabi,Abu%20Dhabi/@24.402209,54.49634).
 
 ![](/assets/images/abu_dhabi/aquarium.jpeg)
 
-### Yas Island
+**Yas Island**:
 This landmark, family-friendly entertainment hub is just a 30-minute drive from the city and a 15-minute drive from Abu Dhabi International Airport. Yas Island is home to an F1™ race track, several theme parks, an incredible links golf course, beautiful beach, stunning hotels, an impressive mall and much more. It's the perfect place to bring the kids, from toddler to teen, for a fun-filled holiday by the sea.
 
 ![](/assets/images/abu_dhabi/yas_1.jpeg)
 <!-- ![](/assets/images/abu_dhabi/yas_2.jpeg)
 ![](/assets/images/abu_dhabi/yas_3.jpeg) -->
 
-### Jubail Mangrove Park
+**Jubail Mangrove Park**:
 Jubail Mangrove Park is home to meandering boardwalks that allow you to wander through the mangroves, discovering a nature-rich side to Abu Dhabi and spotting an array of wildlife, from turtles to herons, gazelle and more. Birdwatchers, nature-lovers and photographers will be in their element here. Directions can be found [here](https://www.google.ae/maps/dir/Current+Location/Jubail%20Mangrove%20Park,Abu%20Dhabi/@24.545194,54.485399)
 
 ![](/assets/images/abu_dhabi/jubail_mangrove.jpeg)
 
-### Beaches
+**Beaches**:
 - [Soul Beach Saadiyat Island](https://www.google.ae/maps/dir/Current+Location/Soul%20Beach,Abu%20Dhabi/@24.53966171946439,54.41035367059425): Tucked away in Saadiyat Island, Soul Beach is Saadiyat Island’s new captivating beachfront location, part of the Mamsha Al Saadiyat community.
 
 - [Saadiyat Beach](https://www.google.ae/maps/dir/Current+Location/Saadiyat%20Beach,Abu%20Dhabi/@24.548873,54.436608): With pristine white sands stretching out along a generous shore, Saadiyat Beach maintains its reputation as one of the most desirable beach locations in the UAE.
@@ -145,14 +147,25 @@ Jubail Mangrove Park is home to meandering boardwalks that allow you to wander t
 
 ![](/assets/images/abu_dhabi/beach.jpeg)
 
-### Night Life 
+**Night Life**:
 
-### Shopping Malls
+**Shopping Malls**:
+- [Yas Mall](https://www.google.ae/maps/dir/Current+Location/Yas%20Mall,Abu%20Dhabi/@24.488523,54.608676)
+- [Galleria Mall](https://www.google.ae/maps/dir/Current+Location/The%20Galleria%20Al%20Maryah%20Island,Abu%20Dhabi/@24.502217,54.388451)
+- [Abu Dhabi Mall](https://www.google.ae/maps/dir/Current+Location/Abu%20Dhabi%20Mall,Abu%20Dhabi/@24.496009,54.383263)
+- [Marina Mall](https://www.google.ae/maps/dir/Current+Location/Marina%20Mall,Abu%20Dhabi/@24.476179,54.321095)
 
-### Places to Eat
+### Food and Restaurants
+
+<!-- - Emirati
+
+- Mediterranean
+
+#### Italian
+
+#### South Asian -->
 
 ### Dubai
-
 
 
 ## Important Information
