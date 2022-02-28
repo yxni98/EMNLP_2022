@@ -44,7 +44,7 @@ ADNEC is a multi-award-winning venue offering organizers of exhibitions, confere
 
 Over 88 airlines operate direct flights into the UAE international airports, covering more than 200 cities around the world.
 
-The country‘s two major carriers, [Etihad Airways](https://www.etihad.com/en-ae/) and [Emirates Airline](https://www.emirates.com/english/) are the fastest growing in the world and provide non-stop service to all continents in the world with the exception of Antarctica. The UAE also boost two low cost carriers, [Fly Dubai](https://www.flydubai.com/en/)** and [Air Arabia](https://www.airarabia.com/en), the two combined provide nonstop services to over 145 destinations.
+The country‘s two major carriers, [Etihad Airways](https://www.etihad.com/en-ae/) and [Emirates Airline](https://www.emirates.com/english/) are the fastest growing in the world and provide non-stop service to all continents in the world with the exception of Antarctica. The UAE also boost two low cost carriers, [Fly Dubai](https://www.flydubai.com/en/) and [Air Arabia](https://www.airarabia.com/en), the two combined provide nonstop services to over 145 destinations.
 
 [Abu Dhabi International Airport](https://www.abudhabiairport.ae/en) is one of only a handful of airports
 outside North America that offer the [US Customs and Border
