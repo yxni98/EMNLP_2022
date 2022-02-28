@@ -16,8 +16,32 @@ Abu Dhabi‘s unique charm is reflected in the blend of ancient 19th century tra
 culture is very much alive. Visitors can see craftsmen demonstrating ancient skills or experience camel riding, falconry, ayallah dancing, and henna painting, and can learn about age-old customs from local people who enthusiastically share their traditions.
 
 To find out more, please visit this [page](https://visitabudhabi.ae/en).
-![mosque](/assets/images/abu_dhabi/grand-mosque.jpg)
-![mosque](/assets/images/abu_dhabi/iStock-653900372.jpg)
+
+![abu_dhabi](/assets/images/abu_dhabi/abu_dhabi.jpg)
+
+<!-- <style>	
+    .column {
+        float: left;
+        width: 47%;
+        padding: 7px;
+    }
+    .img {
+        /* width: 250%; */
+        height: auto;
+    }
+</style> -->
+<!-- 
+<div class="container">
+    <div class="column">
+        <img src="/assets/images/abu_dhabi/grand-mosque.jpg" alt="image1">
+    </div>
+    <div class="column">
+        <img src="/assets/images/abu_dhabi/iStock-653900372.jpg" alt="image1">
+    </div>
+</div> -->
+
+<!-- ![mosque](/assets/images/abu_dhabi/grand-mosque.jpg)
+![mosque](/assets/images/abu_dhabi/iStock-653900372.jpg) -->
 
 ## Venue
 
@@ -30,10 +54,36 @@ EMNLP 2022 will take place in the Abu Dhabi National Exhibition Centre (ADNEC):
 
 ADNEC is a multi-award-winning venue offering organizers of exhibitions, conferences, and events outstanding facilities spread over a total space of 151,000 square meters. ADNEC is just 15 minutes away from the rapidly expanding Abu Dhabi International Airport which serves over 50 airlines and 100 destinations in 46 countries around the globe. It is only 20 minutes from downtown Abu Dhabi and 90 minutes from Dubai International Airport.
 
-![adnec-1](/assets/images/abu_dhabi/World-class facilities.jpg)
+
+
+<!-- <div class="container">
+    <div class="column">
+        <img src="/assets/images/abu_dhabi/World-class facilities.jpg" alt="image1">
+    </div>
+    <div class="column">
+        <img src="/assets/images/abu_dhabi/BC7A8354-Pano-Edit.jpg" alt="image1">
+    </div>
+</div>
+
+<div class="container">
+    <div class="column">
+        <img src="/assets/images/abu_dhabi/BC7A8054-Pano-Edit-Edit gradient.jpg" alt="image1">
+    </div>
+    <div class="column">
+        <img src="/assets/images/abu_dhabi/adnec_floor.jpg" alt="image1">
+    </div>
+</div> -->
+
+<!-- ![adnec-1](/assets/images/abu_dhabi/adnec_3.jpg) -->
+![adnec-1](/assets/images/abu_dhabi/adnec.jpg)
+
+### Floor Plan
+
+![adnec-4](/assets/images/abu_dhabi/adnec_floor.jpg)
+<!-- ![adnec-1](/assets/images/abu_dhabi/World-class facilities.jpg)
 ![adnec-2](/assets/images/abu_dhabi/BC7A8354-Pano-Edit.jpg)
 ![adnec-3](/assets/images/abu_dhabi/BC7A8054-Pano-Edit-Edit gradient.jpg)
-![adnec-4](/assets/images/abu_dhabi/adnec_floor.jpg)
+![adnec-4](/assets/images/abu_dhabi/adnec_floor.jpg) -->
 
 <!-- ![adnec-1](/assets/images/abu_dhabi/20191230_ADNEC Venue_153.jpg)
 ![adnec-1](/assets/images/abu_dhabi/20191230_ADNEC Venue_153.jpg) -->
@@ -80,10 +130,32 @@ a taxi in advance by either using the Abu Dhabi Taxi App ([AppStore](https://app
 ## Places to Visit
 
 ### Abu Dhabi
-XXXXXX
+
+#### Emirates Palace
+
+#### Louvre
+
+#### Sheikh Zayed Mosque
+
+#### Qasr Al Hosn
+
+#### Al Qana National Aquarium
+
+#### Yas Island
+
+#### Jubail Mangrove Park
+
+#### Beaches
+
+#### Night Life 
+
+#### Shopping Malls
+
+### Places to Eat
 
 ### Dubai
-XXXXXX
+
+
 
 ## Important Information
 
