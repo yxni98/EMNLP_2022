@@ -18,29 +18,6 @@ culture is very much alive. Visitors can see craftsmen demonstrating ancient ski
 To find out more, please visit this [page](https://visitabudhabi.ae/en).
 
 ![abu_dhabi](/assets/images/abu_dhabi/abu_dhabi.jpg)
-<!-- <style>	
-    .column {
-        float: left;
-        width: 47%;
-        padding: 7px;
-    }
-    .img {
-        /* width: 250%; */
-        height: auto;
-    }
-</style> -->
-<!-- 
-<div class="container">
-    <div class="column">
-        <img src="/assets/images/abu_dhabi/grand-mosque.jpg" alt="image1">
-    </div>
-    <div class="column">
-        <img src="/assets/images/abu_dhabi/iStock-653900372.jpg" alt="image1">
-    </div>
-</div> -->
-
-<!-- ![mosque](/assets/images/abu_dhabi/grand-mosque.jpg)
-![mosque](/assets/images/abu_dhabi/iStock-653900372.jpg) -->
 
 ## Venue
 
@@ -53,27 +30,6 @@ EMNLP 2022 will take place in the Abu Dhabi National Exhibition Centre (ADNEC):
 
 ADNEC is a multi-award-winning venue offering organizers of exhibitions, conferences, and events outstanding facilities spread over a total space of 151,000 square meters. ADNEC is just 15 minutes away from the rapidly expanding Abu Dhabi International Airport which serves over 50 airlines and 100 destinations in 46 countries around the globe. It is only 20 minutes from downtown Abu Dhabi and 90 minutes from Dubai International Airport.
 
-
-
-<!-- <div class="container">
-    <div class="column">
-        <img src="/assets/images/abu_dhabi/World-class facilities.jpg" alt="image1">
-    </div>
-    <div class="column">
-        <img src="/assets/images/abu_dhabi/BC7A8354-Pano-Edit.jpg" alt="image1">
-    </div>
-</div>
-
-<div class="container">
-    <div class="column">
-        <img src="/assets/images/abu_dhabi/BC7A8054-Pano-Edit-Edit gradient.jpg" alt="image1">
-    </div>
-    <div class="column">
-        <img src="/assets/images/abu_dhabi/adnec_floor.jpg" alt="image1">
-    </div>
-</div> -->
-
-<!-- ![adnec-1](/assets/images/abu_dhabi/adnec_3.jpg) -->
 ![adnec-1](/assets/images/abu_dhabi/adnec.jpg)
 
 ### Floor Plan
@@ -132,17 +88,23 @@ a taxi in advance by either using the Abu Dhabi Taxi App ([AppStore](https://app
 
 #### Emirates Palace
 
-#### Louvre
+#### Louvre Abu Dhabi
+![](/assets/images/abu_dhabi/louvre.jpg)
 
 #### Sheikh Zayed Mosque
 
 #### Qasr Al Hosn
 
 #### Al Qana National Aquarium
+![](/assets/images/abu_dhabi/aquarium.jpeg)
 
 #### Yas Island
+![](/assets/images/abu_dhabi/yas_1.jpeg)
+![](/assets/images/abu_dhabi/yas_2.jpeg)
+![](/assets/images/abu_dhabi/yas_3.jpeg)
 
 #### Jubail Mangrove Park
+![](/assets/images/abu_dhabi/jubail_mangrove.jpeg)
 
 #### Beaches
 
