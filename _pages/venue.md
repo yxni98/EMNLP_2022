@@ -158,6 +158,10 @@ Jubail Mangrove Park is home to meandering boardwalks that allow you to wander t
 
 ### Dubai
 
+Dubai is only 140km away from Abu Dhabi.
+To find out more, please visit [here](https://www.visitdubai.com/).
+
+![dubai](/assets/images/abu_dhabi/burj-khalifa_01.jpeg)
 
 ## Important Information
 
