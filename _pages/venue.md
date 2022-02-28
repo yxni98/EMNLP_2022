@@ -32,7 +32,7 @@ ADNEC is a multi-award-winning venue offering organizers of exhibitions, confere
 
 ![adnec-1](/assets/images/abu_dhabi/adnec.jpg)
 
-### Floor Plan
+**Floor Plan**
 
 ![adnec-4](/assets/images/abu_dhabi/adnec_floor.jpg)
 <!-- ![adnec-1](/assets/images/abu_dhabi/World-class facilities.jpg)
