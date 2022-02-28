@@ -77,15 +77,15 @@ These hotels are two minutes away on foot to the venue of EMNLP2022:
 ![airbnb](/assets/images/abu_dhabi/airbnb_logo.png){: .align-center}
 
 Low-cost AirBnB affordable accommodations are also available in Abu Dhabi.
-The listings range from family-friendly/students offering selection of listings equipped with kitchens, washer/dryer, and WiFi.
-From extra rooms to swimming pools, airbnb family friendly listings provide plenty of space to accommodate the whole family.
+<!-- The listings range from family-friendly/students offering selection of listings equipped with kitchens, washer/dryer, and WiFi.
+From extra rooms to swimming pools, airbnb family friendly listings provide plenty of space to accommodate the whole family. -->
 
 
 ## Welcome Reception and Social Event
-
+Coming Soon!
 
 ## Childcare
-
+Please check with the hotels for childcare support.
 
 ## Places to Visit
 
