@@ -147,16 +147,23 @@ Jubail Mangrove Park is home to meandering boardwalks that allow you to wander t
 
 ![]({{ site.baseurl }}/assets/images/abu_dhabi/jubail_mangrove.jpeg)
 
-### Abu Dhabi Beaches
-**[Soul Beach Saadiyat Island](https://www.google.ae/maps/dir/Current+Location/Soul%20Beach,Abu%20Dhabi/@24.53966171946439,54.41035367059425)**
+**Abu Dhabi’s Corniche**
 
-Tucked away in Saadiyat Island, Soul Beach is Saadiyat Island’s new captivating beachfront location, part of the Mamsha Al Saadiyat community.
+Abu Dhabi’s Corniche stretches over eight kilometres of manicured waterfront that includes children’s play areas, separate cycle and pedestrian pathways, cafés and restaurants, and a lifeguarded beach.
+
+![]({{ site.baseurl }}/assets/images/abu_dhabi/corniche.jpeg)
+
+### Abu Dhabi Beaches
+**[Soul Beach Saadiyat Island](https://www.google.ae/maps/dir/Current+Location/Soul%20Beach,Abu%20Dhabi/@24.53966171946439,54.41035367059425)** Tucked away in Saadiyat Island, Soul Beach is Saadiyat Island’s new captivating beachfront location, part of the Mamsha Al Saadiyat community.
 
 **[Saadiyat Beach](https://www.google.ae/maps/dir/Current+Location/Saadiyat%20Beach,Abu%20Dhabi/@24.548873,54.436608)**
  With pristine white sands stretching out along a generous shore, Saadiyat Beach maintains its reputation as one of the most desirable beach locations in the UAE.
 
 **[Yas Beach](https://www.google.ae/maps/dir/Current+Location/Yas%20Beach,Abu%20Dhabi/@24.462087,54.592183)**
 Set on a majestic stretch of white sand, sun-seekers holidaying at any of Yas Island’s hotels and hotel apartments can enjoy complimentary access to the island’s crystal clear waters and natural mangrove surrounds.
+
+**[Corniche Beach](https://www.google.ae/maps/dir/Current+Location/Corniche%20Beach,Abu%20Dhabi/@24.473195,54.340827)**
+This beautiful beach isn’t just home to turquoise water and soft, white sand, it also has a beautiful seaside boardwalk, with well-kept walkways home to manicured gardens and benches overlooking the picturesque Arabian Gulf.
 
 ![]({{ site.baseurl }}/assets/images/abu_dhabi/beach.jpeg)
 
@@ -333,3 +340,7 @@ An inexpensive bus service serves Abu Dhabi, and is operated by the Abu Dhabi Mu
 **Is Abu Dhabi an accessible city?**
 
 Yes. Modern areas and establishments such as cultural sites, hotels, restaurants are fitted with adaptations and services for people with special needs or disabilities . Parking lots include designated spots, public spaces have been updated with proper facilities, and ramps are increasingly commonplace outside public buildings.
+
+**I have never been to the UAE before, and I have some concerns about traveling there. Who can I talk to?**
+
+The local organization team is happy to answer any questions and concerns by email or schedule Zoom sessions. Please email emnlp2022abudhabi@googlegroups.com.
