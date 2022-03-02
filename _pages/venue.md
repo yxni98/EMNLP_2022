@@ -9,7 +9,8 @@ toc_icon: "cog"
 
 ## Abu Dhabi
 
-Abu Dhabi is the capital and the second-most populous city of the United Arab Emirates (after Dubai).  Situated on a set of islands in the Persian Gulf, Abu Dhabi is a cosmopolitan city with a very large international presence (90% of residents).  English is the lingua franca. 
+Abu Dhabi is the capital and the second-most populous city of the United Arab Emirates (UAE) after Dubai. Abu Dhabi is also the capital of the Emirtate of Abu Dhabi, one of the seven emirates that comprise the UAE federation.
+Situated on a set of islands in the Persian Gulf, Abu Dhabi is a cosmopolitan city with a very large international presence (90% of residents).  English is the lingua franca. 
 
 To find out more, please visit [this page](https://visitabudhabi.ae/en).
 
@@ -45,15 +46,15 @@ ADNEC is a multi-award-winning venue offering organizers of exhibitions, confere
 
 Over 88 airlines operate direct flights into the UAE international airports, covering more than 200 cities around the world.
 
-The country‘s two major carriers, [Etihad Airways](https://www.etihad.com/en-ae/) and [Emirates Airline](https://www.emirates.com/english/) are the fastest growing in the world and provide non-stop service to all continents in the world with the exception of Antarctica. The UAE also boost two low cost carriers, [Fly Dubai](https://www.flydubai.com/en/) and [Air Arabia](https://www.airarabia.com/en), the two combined provide nonstop services to over 145 destinations.
+The country‘s two major carriers, [Etihad Airways](https://www.etihad.com/en-ae/) and [Emirates Airline](https://www.emirates.com/english/) are the fastest growing in the world and provide non-stop service to all continents in the world with the exception of Antarctica. The UAE also boasts two low cost carriers, [Fly Dubai](https://www.flydubai.com/en/) and [Air Arabia](https://www.airarabia.com/en), the two combined provide nonstop services to over 145 destinations.
 
 [Abu Dhabi International Airport](https://www.abudhabiairport.ae/en) is one of only a handful of airports
 outside North America that offer the [US Customs and Border
 Protection Pre-clearance facility](https://www.abudhabiairport.ae/en/services-and-facilities/us-pre-clearance-facility). Having cleared Customs and Border Protection,
-guests can check-through their baggage to their fnal destination in
+guests can check-through their baggage to their final destination in
 the US. When they arrive, they will be treated as domestic passengers,
 meaning they will save time connecting to other fights or on to their
-fnal destination.
+final destination.
 
 ### Local Transportation
 <!-- ### Access to the Venue -->
@@ -205,10 +206,8 @@ To find out more, please visit [here](https://www.visitdubai.com/).
 **Climate**
 
 Abu Dhabi has a northern-hemisphere subtropical, arid climate.
-October to April is Winter:
-Average high daytime temperatures is 23 ̊C Average low night temperatures 12 ̊C
-May and September is Summer:
-Average high daytime temperatures is 42 ̊C Average low night temperatures 32 ̊C.
+November to March is the most appealing time of year, and it is also when infrequent winter rains occur. The temperature range in the winter months is between 56º F (13º C) and 75º F (24º C) with typically bright sunny days which correspond to the best kind of spring weather in the US. 
+<!-- Summer temperatures range from a low of around 65º F (18º C) to over 115º F (46º C) and the humidity may be high. -->
 
 **Clothing**
 
@@ -285,18 +284,6 @@ Visa requirements vary by country of citizenship.
 
 ## FAQs
 
-**What is the weather like in the UAE?**
-
-Abu Dhabi has a sub-tropical climate. November to March is the most appealing season, and this is also when infrequent winter rains occur. The temperature range in the winter months is between 56º F (13º C) and 75º F (24º C) with typically bright sunny days which correspond to the best kind of spring weather in the US. 
-<!-- Summer temperatures range from a low of around 65º F (18º C) to over 115º F (46º C) and the humidity may be high. -->
-
-**What should I wear in Abu Dhabi?**
-
-Modest Western and Arabic dress styles are typical in Abu Dhabi.
-People are basically free to dress as they please; however, tight and revealing clothing would be considered disrespectful to local custom. Sleeves of any length are preferable to sleeveless blouses and dresses. Lightweight summer clothing is appropriate for most of the year. There is no requirement for women to cover their heads, unless visiting a mosque. Because the air conditioning is strong in restaurants, hotels, and other indoor venues, jackets, sweaters and wraps are useful. When visiting government offices, it is best to cover arms and legs. For the beach, while items like shorts, sleeveless shirts and two-piece swimsuits are acceptable at the beach itself, we would recommend bringing an outfit with more coverage if you will be leaving the beach or using public transport to get to and from the beach.
-
-![dress]({{ site.baseurl }}/assets/images/abu_dhabi/dress_ad.jpg)
-
 
 **Should I follow certain customs when visiting?**
 
@@ -306,7 +293,7 @@ Public displays of affection between couples of all orientations and genders are
 
 **Can I drink in the UAE?**
 
-The legal drinking age in the UAE is 21, except in the Emirate of Sharjah, where alcohol consumption is illegal. Being intoxicated in public is not permitted. Abu Dhabi has a zero tolerance policy, and there are severe fines and penalties for those caught driving while under the influence. 
+The legal drinking age in the UAE is 21, except in the Emirate of Sharjah, where alcohol consumption is illegal. Sharjah is situated north of Dubai, about 1 hour and 45 minutes from Abu Dhabi by car. Being intoxicated in public is not permitted. Abu Dhabi has a zero tolerance policy, and there are severe fines and penalties for those caught driving while under the influence. 
 
 
 <!--  Guidebooks and conversations with colleagues offer many suggestions for polite and appropriate behavior in Abu Dhabi. For example, learn a selection of Arabic phrases and use them when greeting new people.
