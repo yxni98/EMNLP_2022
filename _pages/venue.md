@@ -9,7 +9,7 @@ toc_icon: "cog"
 
 ## Abu Dhabi
 
-Abu Dhabi is the capital and the second-most populous city of the United Arab Emirates (UAE) after Dubai. Abu Dhabi is also the capital of the Emirtate of Abu Dhabi, one of the seven emirates that comprise the UAE federation.
+Abu Dhabi is the capital and the second-most populous city of the United Arab Emirates (UAE) after Dubai. Abu Dhabi is also the capital of the Emirate of Abu Dhabi, one of the seven emirates that comprise the UAE federation.
 Situated on a set of islands in the Persian Gulf, Abu Dhabi is a cosmopolitan city with a very large international presence (90% of residents).  English is the lingua franca. 
 
 To find out more, please visit [this page](https://visitabudhabi.ae/en).
@@ -98,19 +98,19 @@ Please check with the specific hotel where you plan to stay for childcare suppor
 
 **Emirates Palace**
 
-Located in the heart of Abu Dhabi, Emirates Palace is one of the capital's most well-known landmarks. It is known for its enchanting Arabesque style, award-winning five-star hospitality and wonderfully unique and authentic local experiences. Directions can be found [here](https://www.google.ae/maps/dir/Current+Location/Emirate%20Palace,Abu%20Dhabi/@24.461644,54.317283).
+Located in the heart of Abu Dhabi, Emirates Palace is one of the capital's most well-known landmarks. It is known for its enchanting Arabesque style, award-winning five-star hospitality, and wonderfully unique and authentic local experiences. Directions can be found [here](https://www.google.ae/maps/dir/Current+Location/Emirate%20Palace,Abu%20Dhabi/@24.461644,54.317283).
 
 ![]({{ site.baseurl }}/assets/images/abu_dhabi/ep2.jpeg)
 
 **Louvre Abu Dhabi**
 
-The iconic Louvre Abu Dhabi is the first universal museum in the Arab World, translating and fostering the spirit of openness between cultures. As one of the premier cultural institutions located in the heart of the Saadiyat Cultural District on [Saadiyat Island](https://visitabudhabi.ae/en/where-to-go/islands/saadiyat-island), this art-lovers’ dream displays works of historical, cultural and sociological significance, from ancient times to the contemporary era. Directions can be found [here](https://www.google.ae/maps/dir/Current+Location/Louvre%20Abu%20Dhabi,Abu%20Dhabi/@24.533698,54.398137).
+The iconic Louvre Abu Dhabi is the first universal museum in the Arab World, translating and fostering the spirit of openness between cultures. As one of the premier cultural institutions located in the heart of the Saadiyat Cultural District on [Saadiyat Island](https://visitabudhabi.ae/en/where-to-go/islands/saadiyat-island), this art-lovers' dream displays works of historical, cultural, and sociological significance, from ancient times to the contemporary era. Directions can be found [here](https://www.google.ae/maps/dir/Current+Location/Louvre%20Abu%20Dhabi,Abu%20Dhabi/@24.533698,54.398137).
 
 ![]({{ site.baseurl }}/assets/images/abu_dhabi/louvre_1.jpeg)
 
 **Sheikh Zayed Grand Mosque**
 
-The impressive and inspiring Sheikh Zayed Grand Mosque is one of the world’s largest mosques and the only one that captures the unique interactions between Islam and other world cultures. Sheikh Zayed bin Sultan Al Nahyan, the Founder of the UAE, had a very specific vision for this mosque: to incorporate architectural styles from different Muslim civilizations and celebrate cultural diversity by creating a haven that is truly welcoming and inspirational in its foundation. The mosque’s architects were British, Italian and Emirati, with design ideas borrowed from parts of Turkey, Morocco, Pakistan and Egypt, among other Islamic countries. Directions can be found [here](https://www.google.ae/maps/dir/Current+Location/Sheikh%20Zayed%20Grand%20Mosque,Abu%20Dhabi/@24.412837,54.474976).
+The impressive and inspiring Sheikh Zayed Grand Mosque is one of the world’s largest mosques and the only one that captures the unique interactions between Islam and other world cultures. Sheikh Zayed bin Sultan Al Nahyan, the Founder of the UAE, had a very specific vision for this mosque: to incorporate architectural styles from different Muslim civilizations and celebrate cultural diversity by creating a haven that is truly welcoming and inspirational in its foundation. The mosque’s architects were British, Italian, and Emirati, with design ideas borrowed from parts of Turkey, Morocco, Pakistan, and Egypt, among other Islamic countries. Directions can be found [here](https://www.google.ae/maps/dir/Current+Location/Sheikh%20Zayed%20Grand%20Mosque,Abu%20Dhabi/@24.412837,54.474976).
 
 ![]({{ site.baseurl }}/assets/images/abu_dhabi/mosque_1.jpeg)
 
@@ -122,13 +122,13 @@ Over the centuries, Qasr Al Hosn has been home to the ruling family, acted as th
 
 **The National Aquarium Abu Dhabi**
 
-The largest aquarium in the Middle East, The National Aquarium in Al Qana is literally swimming with aquatic wildlife featuring over 46,000 animals from more than 300 unique species. Spread across 10 nautically-themed zones, from the UAE’s Natural Treasures, sunken sea wrecks and Atlantic caves, right through to flooded forests, fiery volcanoes and a frozen ocean, there are more than 60 attractions that will be sure to delight and excite the whole family. Directions can be found [here](https://www.google.ae/maps/dir/Current+Location/The%20National%20Aquarium%20Abu%20Dhabi,Abu%20Dhabi/@24.402209,54.49634).
+The largest aquarium in the Middle East, The National Aquarium in Al Qana is literally swimming with aquatic wildlife featuring over 46,000 animals from more than 300 unique species. Spread across 10 nautically-themed zones, from the UAE's Natural Treasures, sunken sea wrecks, and Atlantic caves, right through to flooded forests, fiery volcanoes, and a frozen ocean, there are more than 60 attractions that will be sure to delight and excite the whole family. Directions can be found [here](https://www.google.ae/maps/dir/Current+Location/The%20National%20Aquarium%20Abu%20Dhabi,Abu%20Dhabi/@24.402209,54.49634).
 
 ![]({{ site.baseurl }}/assets/images/abu_dhabi/aquarium.jpeg)
 
 **Yas Island**
 
-This family-friendly entertainment hub is just a 30-minute drive from the city and a 15-minute drive from Abu Dhabi International Airport. Yas Island is home to an F1™ race track, several theme parks, an incredible links golf course, beautiful beach, stunning hotels, an impressive mall and much more. It's the perfect place to bring the kids, from toddler to teen, for a fun-filled holiday by the sea.
+This family-friendly entertainment hub is just a 30-minute drive from the city and a 15-minute drive from Abu Dhabi International Airport. Yas Island is home to an F1™ race track, several theme parks, an incredible links golf course, a beautiful beach, stunning hotels, an impressive mall and much more. It's the perfect place to bring the kids, from toddler to teen, for a fun-filled holiday by the sea.
 
 ![]({{ site.baseurl }}/assets/images/abu_dhabi/yas_1.jpeg)
 <!-- ![](/assets/images/abu_dhabi/yas_2.jpeg)
@@ -136,7 +136,7 @@ This family-friendly entertainment hub is just a 30-minute drive from the city a
 
 **Jubail Mangrove Park**
 
-Jubail Mangrove Park is home to meandering boardwalks that allow you to wander through the mangroves, discovering a nature-rich side to Abu Dhabi and spotting an array of wildlife, from turtles to herons, gazelle and more. Birdwatchers, nature-lovers and photographers will be in their element here. Directions can be found [here](https://www.google.ae/maps/dir/Current+Location/Jubail%20Mangrove%20Park,Abu%20Dhabi/@24.545194,54.485399)
+Jubail Mangrove Park is home to meandering boardwalks that allow you to wander through the mangroves, discovering a nature-rich side to Abu Dhabi and spotting an array of wildlife, from turtles to herons, gazelle, and more. Birdwatchers, nature-lovers, and photographers will be in their element here. Directions can be found [here](https://www.google.ae/maps/dir/Current+Location/Jubail%20Mangrove%20Park,Abu%20Dhabi/@24.545194,54.485399)
 
 ![]({{ site.baseurl }}/assets/images/abu_dhabi/jubail_mangrove.jpeg)
 
@@ -210,7 +210,7 @@ of others. Swimwear should be worn only on beaches or at swimming pools. Visitin
 
 The international dialing code for incoming calls to landlines in the UAE is +971 and 02 for Abu Dhabi. Calls to and from landlines within Abu Dhabi are free. Direct dialing is possible to over 170 countries.
 UAE has two mobile networks, Du and Etisalat:
-- Both offer temporary SIM cards for tourists and business travelers, including data and calls and these can be purchased at outlets across the UAE, including at the airport and malls.
+- Both offer temporary SIM cards for tourists and business travelers, including data and calls, and these can be purchased at outlets across the UAE, including at the airport and malls.
 - Roaming services are also available for most visitors if they wish to use their existing number and phone.
 
 **Currency & Living Cost**
@@ -238,7 +238,7 @@ Islamic holidays are based on the Hijri calendar which is controlled by the sigh
 **Security**
 
 As one of the most cosmopolitan and multicultural cities in the world, home to over 200 different nationalities, Abu Dhabi is an advocate for peace and stability, and proud to be a connecting hub between East and West.
-- Ranked in the 10 safest cities by Aon Hewitt, with low crime rates, a stable government and a department of Abu Dhabi Police dedicated entirely to visitors.
+- Ranked in the 10 safest cities by Aon Hewitt, with low crime rates, a stable government, and a department of Abu Dhabi Police dedicated entirely to visitors.
 
 
 **Taxation**
@@ -249,7 +249,7 @@ Value Added Tax is levied on a majority of goods and services.
 
 
 **Time Zone & Business Hours**
-Abu Dhabi is GMT+4. Most businesses are open from 8 am to 6 pm, Monday to Friday, with Saturday and Sunday being official holidays for all government departments. Embassies, consulates and government offices operate from 7:30 am to 2:30 pm, Monday to Friday.
+Abu Dhabi is GMT+4. Most businesses are open from 8 am to 6 pm, Monday to Friday, with Saturday and Sunday being official holidays for all government departments. Embassies, consulates, and government offices operate from 7:30 am to 2:30 pm, Monday to Friday.
 
 
 **Tipping & Gratuities**
