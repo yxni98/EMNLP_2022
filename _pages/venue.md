@@ -228,7 +228,7 @@ The electricity supply in Abu Dhabi is 220/240 volts at 50 cycles. Standard Brit
 
 **Language**
 
-The official language of the UAE is Arabic. However English is also very widely spoken throughout Abu Dhabi, especially in business, hospitality, retail environments, street signs, taxis, and restaurant menus, etc.  Urdu and Hindi are also widely spoken.
+The official language of the UAE is Arabic. However, English is also very widely spoken throughout Abu Dhabi, especially in business, hospitality, retail environments, street signs, taxis, restaurant menus, etc. Urdu and Hindi are also widely spoken.
 
 
 <!-- **Public Holidays**
@@ -249,12 +249,12 @@ Value Added Tax is levied on a majority of goods and services.
 
 
 **Time Zone & Business Hours**
-Abu Dhabi is GMT+4.  Most businesses are open from 8am to 6pm, Monday to Friday, with Saturday and Sunday being official holidays for all government departments. Embassies, consulates and government offices operate from 7.30am to 2.30 pm, Monday to Friday.
+Abu Dhabi is GMT+4. Most businesses are open from 8 am to 6 pm, Monday to Friday, with Saturday and Sunday being official holidays for all government departments. Embassies, consulates and government offices operate from 7:30 am to 2:30 pm, Monday to Friday.
 
 
 **Tipping & Gratuities**
 
-Tipping practices are similar to most other parts of the world. Most restaurants include a 10% service charge, but tipping in general is at the customer’s discretion.
+Tipping practices are similar to most other parts of the world. Most restaurants include a 10% service charge, but tipping, in general, is at the customer’s discretion.
 
 **Voltage**
 
@@ -279,13 +279,13 @@ Visa requirements vary by country of citizenship.
 
 **Should I follow certain customs when visiting?**
 
-While the UAE is an Islamic country, its culture is shaped by the large number of expats from all over the globe (90% of the population from 150+ nationalities). That said,  discretion and modest behavior in public spaces are generally expected.
+While the UAE is an Islamic country, its culture is shaped by the large number of expats from all over the globe (90% of the population from 150+ nationalities). That said, discretion and modest behavior in public spaces are generally expected.
 Public displays of affection between couples of all orientations and genders are generally discouraged.  The local team does not anticipate any problems for women traveling in the UAE.
 
 
 **Can I drink in the UAE?**
 
-The legal drinking age in the UAE is 21, except in the Emirate of Sharjah, where alcohol consumption is illegal. Sharjah is situated north of Dubai, about 1 hour and 45 minutes from Abu Dhabi by car. Being intoxicated in public is not permitted. Abu Dhabi has a zero tolerance policy, and there are severe fines and penalties for those caught driving while under the influence. 
+The legal drinking age in the UAE is 21, except in the Emirate of Sharjah, where alcohol consumption is illegal. Sharjah is situated north of Dubai, about 1 hour and 45 minutes from Abu Dhabi by car. Being intoxicated in public is not permitted. Abu Dhabi has a zero-tolerance policy, and there are severe fines and penalties for those caught driving while under the influence. 
 
 
 <!--  Guidebooks and conversations with colleagues offer many suggestions for polite and appropriate behavior in Abu Dhabi. For example, learn a selection of Arabic phrases and use them when greeting new people.
@@ -313,12 +313,12 @@ Policies in the UAE vary by emirate. In Abu Dhabi, there are no LGBTQ-specific l
 
 **How can I travel around the city?**
 
-An inexpensive bus service serves Abu Dhabi, and is operated by the Abu Dhabi Municipality. There are city-wide bus routes, with stops in many residential areas. Taxi service is inexpensive relative to other similar cities; the law requires drivers to use their meters. Taxis are usually available at hotels and malls. Depending on the time of day and rush hour conditions, taxi service can be sporadic. Drivers generally speak some English; be sure your driver knows exactly where you wish to go. 
+An inexpensive bus service serves Abu Dhabi and is operated by the Abu Dhabi Municipality. There are city-wide bus routes, with stops in many residential areas. Taxi service is inexpensive relative to other similar cities; the law requires drivers to use their meters. Taxis are usually available at hotels and malls. Depending on the time of day and rush hour conditions, taxi service can be sporadic. Drivers generally speak some English; be sure your driver knows exactly where you wish to go. 
 
 
 **Is Abu Dhabi an accessible city?**
 
-Yes. Modern areas and establishments such as cultural sites, hotels, restaurants are fitted with adaptations and services for people with special needs or disabilities . Parking lots include designated spots, public spaces have been updated with proper facilities, and ramps are increasingly commonplace outside public buildings.
+Yes. Modern areas and establishments such as cultural sites, hotels, restaurants are fitted with adaptations and services for people with special needs or disabilities. Parking lots include designated spots, public spaces have been updated with proper facilities, and ramps are increasingly commonplace outside public buildings.
 
 **I have never been to the UAE before, and I have some concerns about traveling there. Who can I talk to?**
 
