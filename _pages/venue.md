@@ -287,7 +287,7 @@ Visa requirements vary by country of citizenship.
 
 **Should I follow certain customs when visiting?**
 
-While the UAE is an Islamic country, its culture is shaped by the large number of expats from all over the globe (90% of the population from 150+ natioinalities). That said,  discretion and modest behavior in public spaces are generally expected.
+While the UAE is an Islamic country, its culture is shaped by the large number of expats from all over the globe (90% of the population from 150+ nationalities). That said,  discretion and modest behavior in public spaces are generally expected.
 Public displays of affection between couples of all orientations and genders are generally discouraged.  The local team does not anticipate any problems for women traveling in the UAE.
 
 
