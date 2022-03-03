@@ -46,35 +46,27 @@ ADNEC is a multi-award-winning venue offering organizers of exhibitions, confere
 
 Over 88 airlines operate direct flights into the UAE international airports, covering more than 200 cities around the world.
 
-The country‘s two major carriers, [Etihad Airways](https://www.etihad.com/en-ae/) and [Emirates Airline](https://www.emirates.com/english/) are the fastest growing in the world and provide non-stop service to all continents in the world with the exception of Antarctica. The UAE also boasts two low cost carriers, [Fly Dubai](https://www.flydubai.com/en/) and [Air Arabia](https://www.airarabia.com/en), the two combined provide nonstop services to over 145 destinations.
+The country's two major carriers, [Etihad Airways](https://www.etihad.com/en-ae/) and [Emirates Airline](https://www.emirates.com/english/) are the fastest growing in the world and provide non-stop service to all continents in the world with the exception of Antarctica. The UAE also boasts two low-cost carriers, [Fly Dubai](https://www.flydubai.com/en/) and [Air Arabia](https://www.airarabia.com/en), the two combined provide nonstop services to over 145 destinations.
 
-[Abu Dhabi International Airport](https://www.abudhabiairport.ae/en) is one of only a handful of airports
-outside North America that offer the [US Customs and Border
-Protection Pre-clearance facility](https://www.abudhabiairport.ae/en/services-and-facilities/us-pre-clearance-facility). Having cleared Customs and Border Protection,
-guests can check-through their baggage to their final destination in
-the US. When they arrive, they will be treated as domestic passengers,
-meaning they will save time connecting to other fights or on to their
-final destination.
+[Abu Dhabi International Airport](https://www.abudhabiairport.ae/en) is one of only a handful of airports outside North America that offer the [US Customs and Border Protection Pre-clearance facility](https://www.abudhabiairport.ae/en/services-and-facilities/us-pre-clearance-facility). Having cleared Customs and Border Protection, guests can check through their baggage to their final destination in the US. When they arrive, they will be treated as domestic passengers, meaning they will save time connecting to other flights or on to their final destination.
 
 ### Local Transportation
 <!-- ### Access to the Venue -->
 - ADNEC is just a 20-minute car ride from **Abu Dhabi Airport**.
 From Abu Dhabi Corniche, ADNEC is located just 15 minutes away.
-- **Taxis** are available throughout Abu Dhabi and they are quiet convenient and 
-affordable. Abu Dhabi’s taxi network is operated by TransAD. You can book 
-a taxi in advance by either using the Abu Dhabi Taxi App ([AppStore](https://apps.apple.com/ae/app/abu-dhabi-taxi/id613114167), [Google Play](https://play.google.com/store/apps/details?id=transad.abudhabi.taxi)) or by calling 600 53 53 53. A number of taxis are available from ADNEC at the adjacent Aloft Hotel entrance. UBER is also available in Abu Dhabi but it is generally a bit more expensive than taxis.
+- **Taxis** are available throughout Abu Dhabi and they are quite convenient and affordable. Abu Dhabi's taxi network is operated by TransAD. You can book a taxi in advance by either using the Abu Dhabi Taxi App ([AppStore](https://apps.apple.com/ae/app/abu-dhabi-taxi/id613114167), [Google Play](https://play.google.com/store/apps/details?id=transad.abudhabi.taxi)) or by calling 600 53 53 53. A number of taxis are available from ADNEC at the adjacent Aloft Hotel entrance. UBER is also available in Abu Dhabi but it is generally a bit more expensive than taxis.
 <!-- Add a bit about CAREEM -->
 - **Buses** are also available around Abu Dhabi and ADNEC is serviced by bus number 040, seven days a week. For more information on bus routes, services and fares please see the [Department of Transport website](https://itc.gov.ae/en/info/Abu_Dhabi_Region_Bus_Services).
 
 ## COVID-19 Regulations 
 <!-- Testing and Medical Assistance -->
 
-The COVID-19 global situation is continuously changing. For the latest information on Abu Dhabi regulaions, please visit [this page](https://visitabudhabi.ae/en/plan-your-trip/covid-safe-travel).
+The COVID-19 global situation is continuously changing. For the latest information on Abu Dhabi regulations, please visit [this page](https://visitabudhabi.ae/en/plan-your-trip/covid-safe-travel).
 
 
 ## Accommodation Information
 Abu Dhabi has an extensive range of modern and traditional hotels featuring internationally recognized brands.
-From budget conscious to 5-star luxury, there is no better place to experience our legendary Arabian Hospitality.
+From budget-conscious to 5-star luxury, there is no better place to experience our legendary Arabian Hospitality.
 
 ![hotel]({{ site.baseurl }}/assets/images/abu_dhabi/hotels.png)
 
@@ -150,7 +142,7 @@ Jubail Mangrove Park is home to meandering boardwalks that allow you to wander t
 
 **Abu Dhabi’s Corniche**
 
-Abu Dhabi’s Corniche stretches over eight kilometres of manicured waterfront that includes children’s play areas, separate cycle and pedestrian pathways, cafés and restaurants, and a lifeguarded beach.
+Abu Dhabi’s Corniche stretches over eight kilometers of manicured waterfront that includes children’s play areas, separate cycle and pedestrian pathways, cafés and restaurants, and a lifeguarded beach.
 
 ![]({{ site.baseurl }}/assets/images/abu_dhabi/corniche.jpeg)
 
