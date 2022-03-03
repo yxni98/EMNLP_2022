@@ -306,11 +306,6 @@ When you are seated, make sure the sole of your foot is not pointing directly at
 Abu Dhabi’s general crime level is very low. Random, violent criminal acts are extremely rare. As in any other city, you should be cognizant of your surroundings and personal safety as you travel. 
 
 
-**What's an LGBTQI+ identifying person's experience like in the UAE?**
-
-Policies in the UAE vary by emirate. In Abu Dhabi, there are no LGBTQ-specific laws except for prohibitions on cross-dressing. However, the prohibition is rarely enforced.
-
-
 **How can I travel around the city?**
 
 An inexpensive bus service serves Abu Dhabi and is operated by the Abu Dhabi Municipality. There are city-wide bus routes, with stops in many residential areas. Taxi service is inexpensive relative to other similar cities; the law requires drivers to use their meters. Taxis are usually available at hotels and malls. Depending on the time of day and rush hour conditions, taxi service can be sporadic. Drivers generally speak some English; be sure your driver knows exactly where you wish to go. 
@@ -319,6 +314,14 @@ An inexpensive bus service serves Abu Dhabi and is operated by the Abu Dhabi Mun
 **Is Abu Dhabi an accessible city?**
 
 Yes. Modern areas and establishments such as cultural sites, hotels, restaurants are fitted with adaptations and services for people with special needs or disabilities. Parking lots include designated spots, public spaces have been updated with proper facilities, and ramps are increasingly commonplace outside public buildings.
+
+
+**What's an LGBTQI+ identifying person's experience like in the UAE?**
+
+There are no LGBTQI-specific laws in the UAE except for some [prohibitions
+on gender expression](http://internap.hrw.org/features/features/lgbt_laws/index-june15.html). 
+Discretion is generally advisable.
+
 
 **I have never been to the UAE before, and I have some concerns about traveling there. Who can I talk to?**
 
