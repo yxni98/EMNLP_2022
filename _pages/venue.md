@@ -256,9 +256,6 @@ Abu Dhabi is GMT+4. Most businesses are open from 8 am to 6 pm, Monday to Friday
 
 Tipping practices are similar to most other parts of the world. Most restaurants include a 10% service charge, but tipping, in general, is at the customer’s discretion.
 
-**Voltage**
-
-Voltage in Abu Dhabi is 220/240.
 
 **Water**
 
@@ -306,21 +303,17 @@ When you are seated, make sure the sole of your foot is not pointing directly at
 Abu Dhabi’s general crime level is very low. Random, violent criminal acts are extremely rare. As in any other city, you should be cognizant of your surroundings and personal safety as you travel. 
 
 
-**How can I travel around the city?**
-
-An inexpensive bus service serves Abu Dhabi and is operated by the Abu Dhabi Municipality. There are city-wide bus routes, with stops in many residential areas. Taxi service is inexpensive relative to other similar cities; the law requires drivers to use their meters. Taxis are usually available at hotels and malls. Depending on the time of day and rush hour conditions, taxi service can be sporadic. Drivers generally speak some English; be sure your driver knows exactly where you wish to go. 
-
 
 **Is Abu Dhabi an accessible city?**
 
 Yes. Modern areas and establishments such as cultural sites, hotels, restaurants are fitted with adaptations and services for people with special needs or disabilities. Parking lots include designated spots, public spaces have been updated with proper facilities, and ramps are increasingly commonplace outside public buildings.
 
 
-**What's an LGBTQI+ identifying person's experience like in the UAE?**
+<!-- **Are there anti-LGBTQI+ laws in the UAE?**
 
 There are no LGBTQI-specific laws in the UAE except for some [prohibitions
 on gender expression](http://internap.hrw.org/features/features/lgbt_laws/index-june15.html). 
-Discretion is generally advisable.
+Discretion is generally advisable.  -->
 
 
 **I have never been to the UAE before, and I have some concerns about traveling there. Who can I talk to?**
