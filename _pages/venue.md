@@ -315,9 +315,9 @@ Yes. Modern areas and establishments such as cultural sites, hotels, restaurants
 **What advice can you give LGBTQI+ travellers in the UAE?**
 
 There are no federal LGBTQI-specific laws in the UAE except for some prohibitions
-on gender expression. 
-However, several emirates, including Abu Dhabi and Dubai, criminalize same-sex conduct in their local penal codes. See [Human Rights Watch](http://internap.hrw.org/features/features/lgbt_laws/index-june15.html) for more details.
-Discretion is generally advisable. [This page](https://nomadicboys.com/is-abu-dhabi-safe-for-gay-travellers/) provides some practical advice for LGBTQI travellers. 
+on gender expression. Several emirates, including Abu Dhabi and Dubai, have additional prohibitions. See [Human Rights Watch](http://internap.hrw.org/features/features/lgbt_laws/index-june15.html) for more details.
+Discretion is generally advisable. 
+<!-- [This page](https://nomadicboys.com/is-abu-dhabi-safe-for-gay-travellers/) provides some practical advice for LGBTQI travellers.  -->
 
 **I have never been to the UAE before, and I have some concerns about traveling there. Who can I talk to?**
 
