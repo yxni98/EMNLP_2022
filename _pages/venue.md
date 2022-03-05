@@ -146,6 +146,7 @@ Abu Dhabi’s Corniche stretches over eight kilometers of manicured waterfront t
 
 ![]({{ site.baseurl }}/assets/images/abu_dhabi/corniche.jpeg)
 
+
 ### Abu Dhabi Beaches
 **[Soul Beach Saadiyat Island](https://www.google.ae/maps/dir/Current+Location/Soul%20Beach,Abu%20Dhabi/@24.53966171946439,54.41035367059425)** Tucked away in Saadiyat Island, Soul Beach is Saadiyat Island’s new captivating beachfront location, part of the Mamsha Al Saadiyat community.
 
@@ -160,8 +161,8 @@ This beautiful beach isn’t just home to turquoise water and soft, white sand, 
 
 ![]({{ site.baseurl }}/assets/images/abu_dhabi/beach.jpeg)
 
-### Tours
-Details coming soon.
+<!-- ### Tours
+Details coming soon. -->
 
 <!-- **Night Life**: -->
 
