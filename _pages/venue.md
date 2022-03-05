@@ -128,7 +128,7 @@ The largest aquarium in the Middle East, The National Aquarium in Al Qana is lit
 
 **Yas Island**
 
-This family-friendly entertainment hub is just a 30-minute drive from the city and a 15-minute drive from Abu Dhabi International Airport. Yas Island is home to an F1™ race track, several theme parks, an incredible links golf course, a beautiful beach, stunning hotels, an impressive mall and much more. It's the perfect place to bring the kids, from toddler to teen, for a fun-filled holiday by the sea.
+This family-friendly entertainment hub is just a 30-minute drive from the city and a 15-minute drive from Abu Dhabi International Airport. Yas Island is home to an F1™ race track, several theme parks, an incredible links golf course, a beautiful beach, stunning hotels, an impressive mall and much more. It's the perfect place to bring the kids, from toddler to teen, for a fun-filled holiday by the sea. Direction can be found [here](https://www.google.ae/maps/dir/Current+Location/Yas%20Island,Abu%20Dhabi/@24.497478505617185,54.603839566018365)
 
 ![]({{ site.baseurl }}/assets/images/abu_dhabi/yas_1.jpeg)
 <!-- ![](/assets/images/abu_dhabi/yas_2.jpeg)
@@ -142,7 +142,7 @@ Jubail Mangrove Park is home to meandering boardwalks that allow you to wander t
 
 **Abu Dhabi’s Corniche**
 
-Abu Dhabi’s Corniche stretches over eight kilometers of manicured waterfront that includes children’s play areas, separate cycle and pedestrian pathways, cafés and restaurants, and a lifeguarded beach.
+Abu Dhabi’s Corniche stretches over eight kilometers of manicured waterfront that includes children’s play areas, separate cycle and pedestrian pathways, cafés and restaurants, and a lifeguarded beach. Direction can be found [here](https://www.google.ae/maps/dir/Current+Location/Corniche%20Rd,Abu%20Dhabi/@24.471006378735797,54.33220600533254).
 
 ![]({{ site.baseurl }}/assets/images/abu_dhabi/corniche.jpeg)
 
@@ -270,7 +270,7 @@ Bargaining is expected in the souk and is not unusual elsewhere. Vendors will us
 
 **Visas**
 Visa requirements vary by country of citizenship.
-[Citizens of these countries](...) do not require advance visa arrangements to enter the UAE and can obtain a visa upon arrival for 30 days with a 10-day grace period for extension. [Citizens of these countries](...) do not require advance visa arrangements to enter the UAE and can obtain a visa upon arrival for 90 days. More information about other passports is available [here](https://u.ae/en/information-and-services/visa-and-emirates-id/do-you-need-an-entry-permit-or-a-visa-to-enter-the-uae).
+[Citizens of these countries](https://www.visitdubai.com/en/plan-your-trip/visa-information) do not require advance visa arrangements to enter the UAE and can obtain a visa upon arrival for 30 days with a 10-day grace period for extension. [Citizens of these countries](https://www.visitdubai.com/en/plan-your-trip/visa-information) do not require advance visa arrangements to enter the UAE and can obtain a visa upon arrival for 90 days. More information about other passports is available [here](https://u.ae/en/information-and-services/visa-and-emirates-id/do-you-need-an-entry-permit-or-a-visa-to-enter-the-uae).
 
 ## FAQs
 
