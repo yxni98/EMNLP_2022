@@ -309,11 +309,11 @@ Abu Dhabi’s general crime level is very low. Random, violent criminal acts are
 Yes. Modern areas and establishments such as cultural sites, hotels, restaurants are fitted with adaptations and services for people with special needs or disabilities. Parking lots include designated spots, public spaces have been updated with proper facilities, and ramps are increasingly commonplace outside public buildings.
 
 
-<!-- **Are there anti-LGBTQI+ laws in the UAE?**
+**Are there anti-LGBTQI+ laws in the UAE?**
 
 There are no LGBTQI-specific laws in the UAE except for some [prohibitions
 on gender expression](http://internap.hrw.org/features/features/lgbt_laws/index-june15.html). 
-Discretion is generally advisable.  -->
+Discretion is generally advisable.
 
 
 **I have never been to the UAE before, and I have some concerns about traveling there. Who can I talk to?**
