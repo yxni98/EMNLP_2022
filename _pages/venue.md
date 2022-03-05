@@ -128,7 +128,7 @@ The largest aquarium in the Middle East, The National Aquarium in Al Qana is lit
 
 **Yas Island**
 
-This family-friendly entertainment hub is just a 30-minute drive from the city and a 15-minute drive from Abu Dhabi International Airport. Yas Island is home to an F1™ race track, several theme parks, an incredible links golf course, a beautiful beach, stunning hotels, an impressive mall and much more. It's the perfect place to bring the kids, from toddler to teen, for a fun-filled holiday by the sea. Direction can be found [here](https://www.google.ae/maps/dir/Current+Location/Yas%20Island,Abu%20Dhabi/@24.497478505617185,54.603839566018365)
+This family-friendly entertainment hub is just a 30-minute drive from the city and a 15-minute drive from Abu Dhabi International Airport. Yas Island is home to an F1™ race track, several theme parks, an incredible links golf course, a beautiful beach, stunning hotels, an impressive mall and much more. It's the perfect place to bring the kids, from toddler to teen, for a fun-filled holiday by the sea. Directions can be found [here](https://www.google.ae/maps/dir/Current+Location/Yas%20Island,Abu%20Dhabi/@24.497478505617185,54.603839566018365)
 
 ![]({{ site.baseurl }}/assets/images/abu_dhabi/yas_1.jpeg)
 <!-- ![](/assets/images/abu_dhabi/yas_2.jpeg)
@@ -142,7 +142,7 @@ Jubail Mangrove Park is home to meandering boardwalks that allow you to wander t
 
 **Abu Dhabi’s Corniche**
 
-Abu Dhabi’s Corniche stretches over eight kilometers of manicured waterfront that includes children’s play areas, separate cycle and pedestrian pathways, cafés and restaurants, and a lifeguarded beach. Direction can be found [here](https://www.google.ae/maps/dir/Current+Location/Corniche%20Rd,Abu%20Dhabi/@24.471006378735797,54.33220600533254).
+Abu Dhabi’s Corniche stretches over eight kilometers of manicured waterfront that includes children’s play areas, separate cycle and pedestrian pathways, cafés and restaurants, and a lifeguarded beach. Directions can be found [here](https://www.google.ae/maps/dir/Current+Location/Corniche%20Rd,Abu%20Dhabi/@24.471006378735797,54.33220600533254).
 
 ![]({{ site.baseurl }}/assets/images/abu_dhabi/corniche.jpeg)
 
