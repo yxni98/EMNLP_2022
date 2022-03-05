@@ -311,8 +311,9 @@ Yes. Modern areas and establishments such as cultural sites, hotels, restaurants
 
 **Are there anti-LGBTQI+ laws in the UAE?**
 
-There are no LGBTQI-specific laws in the UAE except for some [prohibitions
-on gender expression](http://internap.hrw.org/features/features/lgbt_laws/index-june15.html). 
+There are no federal LGBTQI-specific laws in the UAE except for some prohibitions
+on gender expression. 
+However, several emirates, including Abu Dhabi and Dubai, criminalize same-sex conduct. See [Human Rights Watch](http://internap.hrw.org/features/features/lgbt_laws/index-june15.html) for more details.
 Discretion is generally advisable.
 
 
