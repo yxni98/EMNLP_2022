@@ -311,7 +311,7 @@ Yes. Modern areas and establishments such as cultural sites, hotels, restaurants
 
 <!-- **Are there anti-LGBTQI+ laws in the UAE?** -->
 <!-- **What's an LGBTQI+ identifying person's experience like in the UAE?** -->
-**What advice can you give LGBTQI+ identifying travellers in the UAE?**
+**What advice can you give LGBTQI+ travellers in the UAE?**
 
 There are no federal LGBTQI-specific laws in the UAE except for some prohibitions
 on gender expression. 
