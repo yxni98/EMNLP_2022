@@ -128,7 +128,7 @@ The largest aquarium in the Middle East, The National Aquarium in Al Qana is lit
 
 **Yas Island**
 
-This family-friendly entertainment hub is just a 30-minute drive from the city and a 15-minute drive from Abu Dhabi International Airport. Yas Island is home to an F1™ race track, several theme parks, an incredible links golf course, a beautiful beach, stunning hotels, an impressive mall and much more. It's the perfect place to bring the kids, from toddler to teen, for a fun-filled holiday by the sea. Directions can be found [here](https://www.google.ae/maps/dir/Current+Location/Yas%20Island,Abu%20Dhabi/@24.497478505617185,54.603839566018365)
+This family-friendly entertainment hub is just a 30-minute drive from the city and a 15-minute drive from Abu Dhabi International Airport. Yas Island is home to an F1™ race track, several theme parks, an incredible links golf course, a beautiful beach, stunning hotels, an impressive mall and much more. It's the perfect place to bring the kids, from toddler to teen, for a fun-filled holiday by the sea. Directions can be found [here](https://www.google.ae/maps/dir/Current+Location/Yas%20Island,Abu%20Dhabi/@24.497478505617185,54.603839566018365).
 
 ![]({{ site.baseurl }}/assets/images/abu_dhabi/yas_1.jpeg)
 <!-- ![](/assets/images/abu_dhabi/yas_2.jpeg)
@@ -136,7 +136,7 @@ This family-friendly entertainment hub is just a 30-minute drive from the city a
 
 **Jubail Mangrove Park**
 
-Jubail Mangrove Park is home to meandering boardwalks that allow you to wander through the mangroves, discovering a nature-rich side to Abu Dhabi and spotting an array of wildlife, from turtles to herons, gazelle, and more. Birdwatchers, nature-lovers, and photographers will be in their element here. Directions can be found [here](https://www.google.ae/maps/dir/Current+Location/Jubail%20Mangrove%20Park,Abu%20Dhabi/@24.545194,54.485399)
+Jubail Mangrove Park is home to meandering boardwalks that allow you to wander through the mangroves, discovering a nature-rich side to Abu Dhabi and spotting an array of wildlife, from turtles to herons, gazelle, and more. Birdwatchers, nature-lovers, and photographers will be in their element here. Directions can be found [here](https://www.google.ae/maps/dir/Current+Location/Jubail%20Mangrove%20Park,Abu%20Dhabi/@24.545194,54.485399).
 
 ![]({{ site.baseurl }}/assets/images/abu_dhabi/jubail_mangrove.jpeg)
 
