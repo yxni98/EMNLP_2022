@@ -10,7 +10,7 @@ toc_icon: "cog"
 ## Abu Dhabi
 
 Abu Dhabi is the capital and the second-most populous city of the United Arab Emirates (UAE) after Dubai. Abu Dhabi is also the capital of the Emirate of Abu Dhabi, one of the seven emirates that comprise the UAE federation.
-Situated on a set of islands in the Persian Gulf, Abu Dhabi is a cosmopolitan city with a very large international presence (90% of residents).  English is the lingua franca. 
+Situated on a set of islands in the Arabian Gulf, Abu Dhabi is a cosmopolitan city with a very large international presence (90% of residents).  English is the lingua franca. 
 
 To find out more, please visit [this page](https://visitabudhabi.ae/en).
 
@@ -46,7 +46,7 @@ ADNEC is a multi-award-winning venue offering organizers of exhibitions, confere
 
 Over 88 airlines operate direct flights into the UAE international airports, covering more than 200 cities around the world.
 
-The country's two major carriers, [Etihad Airways](https://www.etihad.com/en-ae/) and [Emirates Airline](https://www.emirates.com/english/) are the fastest growing in the world and provide non-stop service to all continents in the world with the exception of Antarctica. The UAE also boasts two low-cost carriers, [Fly Dubai](https://www.flydubai.com/en/) and [Air Arabia](https://www.airarabia.com/en), the two combined provide nonstop services to over 145 destinations.
+The country's two major carriers, [Etihad Airways](https://www.etihad.com/en-ae/) and [Emirates Airline](https://www.emirates.com/english/) are the fastest growing in the world and provide non-stop service to all continents in the world with the exception of Antarctica. The UAE also boasts three low-cost carriers, [Wizz Air](https://wizzair.com/en-gb), [Fly Dubai](https://www.flydubai.com/en/) and [Air Arabia](https://www.airarabia.com/en), the two combined provide nonstop services to over 145 destinations.
 
 [Abu Dhabi International Airport](https://www.abudhabiairport.ae/en) is one of only a handful of airports outside North America that offer the [US Customs and Border Protection Pre-clearance facility](https://www.abudhabiairport.ae/en/services-and-facilities/us-pre-clearance-facility). Having cleared Customs and Border Protection, guests can check through their baggage to their final destination in the US. When they arrive, they will be treated as domestic passengers, meaning they will save time connecting to other flights or on to their final destination.
 
