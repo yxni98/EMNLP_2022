@@ -65,9 +65,13 @@ The COVID-19 global situation is continuously changing. For the latest informati
 
 
 ## Accommodation Information
-Abu Dhabi has an extensive range of modern and traditional hotels featuring internationally recognized brands.
-From budget-conscious to 5-star luxury, there is no better place to experience our legendary Arabian Hospitality.
+Abu Dhabi has an extensive range of modern and traditional hotels featuring internationally recognized brands
+from budget-conscious to 5-star luxury.
 
+More details coming soon!
+
+<!-- , there is no better place to experience our legendary Arabian Hospitality. -->
+<!-- 
 ![hotel]({{ site.baseurl }}/assets/images/abu_dhabi/hotels.png)
 
 These hotels are **two minutes away on foot** to the venue of EMNLP2022:
@@ -81,13 +85,13 @@ These hotels are **two minutes away on foot** to the venue of EMNLP2022:
 
 ![airbnb]({{ site.baseurl }}/assets/images/abu_dhabi/airbnb_logo.png){: .align-center}
 
-Low-cost [airbnb](https://www.airbnb.ae/) affordable accommodations are also available in Abu Dhabi.
+Low-cost [airbnb](https://www.airbnb.ae/) affordable accommodations are also available in Abu Dhabi. -->
 <!-- The listings range from family-friendly/students offering selection of listings equipped with kitchens, washer/dryer, and WiFi.
 From extra rooms to swimming pools, airbnb family friendly listings provide plenty of space to accommodate the whole family. -->
 
 
 ## Welcome Reception and Social Event
-Coming Soon!
+More details coming soon!
 
 ## Childcare
 Please check with the specific hotel where you plan to stay for childcare support.
@@ -312,13 +316,15 @@ Yes. Modern areas and establishments such as cultural sites, hotels, restaurants
 
 <!-- **Are there anti-LGBTQI+ laws in the UAE?** -->
 <!-- **What's an LGBTQI+ identifying person's experience like in the UAE?** -->
+
+<!-- LAST VERSION
 **What advice can you give LGBTQI+ travellers in the UAE?**
 
 There are no federal LGBTQI-specific laws in the UAE except for some prohibitions
 on gender expression. Several emirates, including Abu Dhabi and Dubai, have additional prohibitions. See [Human Rights Watch](http://internap.hrw.org/features/features/lgbt_laws/index-june15.html) for more details.
-Discretion is generally advisable. 
+Discretion is generally advisable.  -->
 <!-- [This page](https://nomadicboys.com/is-abu-dhabi-safe-for-gay-travellers/) provides some practical advice for LGBTQI travellers.  -->
 
 **I have never been to the UAE before, and I have some concerns about traveling there. Who can I talk to?**
 
-The local organization team is happy to answer any questions and concerns by email or schedule Zoom sessions. Please email emnlp2022abudhabi@googlegroups.com.
+The local organization team is happy to answer any questions and concerns by email or schedule Zoom sessions. Please email <emnlp2022abudhabi@googlegroups.com>.
