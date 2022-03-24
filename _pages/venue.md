@@ -332,4 +332,4 @@ The local organization team is happy to answer any questions and concerns by ema
 
 **Would people identify as LGBTQ encounter any issues?**
 
-We understand the concerns but do not anticipate any issues. The local organization team is happy to answer any questions and concerns by email or schedule Zoom sessions. Please email emnlp2022abudhabi@googlegroups.com.
+We understand the concerns but do not anticipate any issues. The local organization team is happy to answer any questions and concerns by email or schedule Zoom sessions. Please email <emnlp2022abudhabi@googlegroups.com>.
