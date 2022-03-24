@@ -1,4 +1,5 @@
 # main links
+#in masthead.html
 main:
 
   #- title: "Schedule"
@@ -31,8 +32,8 @@ main:
   - title: "Venue"
     url: /venue
 
-  - title: "Reviewer"
-    url: /not_available
+  #- title: "Reviewer"
+  #  url: /not_available
 
   - title: "Participants Info"
     url: /participants/presenters/
