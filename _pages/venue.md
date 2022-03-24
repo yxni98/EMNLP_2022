@@ -285,7 +285,7 @@ While the UAE is an Islamic country, its culture is shaped by the large number o
 Public displays of affection between couples of all orientations and genders are generally discouraged. 
 
 
-**Can I drink alcohol in the UEA?**
+**Can I drink alcohol in the UAE?**
 
 The legal drinking age in the UAE is 21, except in the Emirate of Sharjah, where alcohol consumption is illegal. Sharjah is situated north of Dubai, about 1 hour and 45 minutes from Abu Dhabi by car. Being intoxicated in public is not permitted. Abu Dhabi has a zero-tolerance policy, and there are severe fines and penalties for those caught driving while under the influence. 
 
@@ -325,11 +325,13 @@ on gender expression. Several emirates, including Abu Dhabi and Dubai, have addi
 Discretion is generally advisable.  -->
 <!-- [This page](https://nomadicboys.com/is-abu-dhabi-safe-for-gay-travellers/) provides some practical advice for LGBTQI travellers.  -->
 
+**Would people identifying as LGBTQ encounter any issues?**
+
+We understand the concerns but do not anticipate any issues. 
+The local organization team has been in touch with leaders of Queer in AI and other organizations to discuss how to make the venue most hospitable and answer any concerns they may have. 
+
 **I have never been to the UAE before, and I have some concerns about traveling there. Who can I talk to?**
 
 The local organization team is happy to answer any questions and concerns by email or schedule Zoom sessions. Please email <emnlp2022abudhabi@googlegroups.com>.
 
-
-**Would people identify as LGBTQ encounter any issues?**
-
-We understand the concerns but do not anticipate any issues. The local organization team is happy to answer any questions and concerns by email or schedule Zoom sessions. Please email <emnlp2022abudhabi@googlegroups.com>.
+*We plan on updating the FAQ continuously* 
