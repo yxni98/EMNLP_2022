@@ -328,3 +328,7 @@ Discretion is generally advisable.  -->
 **I have never been to the UAE before, and I have some concerns about traveling there. Who can I talk to?**
 
 The local organization team is happy to answer any questions and concerns by email or schedule Zoom sessions. Please email <emnlp2022abudhabi@googlegroups.com>.
+
+
+*We plan to update the FAQ continuously.*
+
