@@ -282,10 +282,10 @@ Visa requirements vary by country of citizenship.
 **Should I follow certain customs when visiting?**
 
 While the UAE is an Islamic country, its culture is shaped by the large number of expats from all over the globe (90% of the population from 150+ nationalities). That said, discretion and modest behavior in public spaces are generally expected.
-Public displays of affection between couples of all orientations and genders are generally discouraged.  The local team does not anticipate any problems for women traveling in the UAE.
+Public displays of affection between couples of all orientations and genders are generally discouraged. 
 
 
-**Can I drink in the UAE?**
+**Can I drink alcohol in the UEA?**
 
 The legal drinking age in the UAE is 21, except in the Emirate of Sharjah, where alcohol consumption is illegal. Sharjah is situated north of Dubai, about 1 hour and 45 minutes from Abu Dhabi by car. Being intoxicated in public is not permitted. Abu Dhabi has a zero-tolerance policy, and there are severe fines and penalties for those caught driving while under the influence. 
 
@@ -330,5 +330,6 @@ Discretion is generally advisable.  -->
 The local organization team is happy to answer any questions and concerns by email or schedule Zoom sessions. Please email <emnlp2022abudhabi@googlegroups.com>.
 
 
-*We plan to update the FAQ continuously.*
+**Would people identify as LGBTQ encounter any issues?**
 
+We understand the concerns but do not anticipate any issues. The local organization team is happy to answer any questions and concerns by email or schedule Zoom sessions. Please email emnlp2022abudhabi@googlegroups.com.
