@@ -1,4 +1,5 @@
 # main links
+#in masthead.html
 main:
 
   #- title: "Schedule"
@@ -12,36 +13,46 @@ main:
 
   - title: "Program"
     url: /program/
+    disable: False
 
   - title: "Registration"
     url: /not_available
+    disable: True
 
   - title: "Calls"
     url: /calls/papers/
+    disable: False
     
   - title: "Blog"
     url: /blog/
+    disable: False
       
   - title: "Committees"
     url: /organization
+    disable: False
   
   - title: "Sponsors"
     url: /not_available 
+    disable: False
     
   - title: "Venue"
     url: /venue
+    disable: False
 
-  - title: "Reviewer"
-    url: /not_available
+  #- title: "Reviewer"
+  #  url: /not_available
 
   - title: "Participants Info"
     url: /participants/presenters/
+    disable: False
 
   - title: "FAQ"
     url: /faq/
+    disable: False
  
   - title: "Ethics"
     url: /not_available
+    disable: False
 
 
 program:
@@ -111,10 +122,13 @@ ethics:
     children:
       - title: "Ethics FAQ"
         url: /ethics/faq/
+        disable: False
       - title: "Ethics Review Questions"
         url: /ethics/review-questions/
+        disable: False
       - title: "Ethics Committee"
         url: /ethics/committee/
+        disable: False
 
 reviewer:
   - title: Reviewer
