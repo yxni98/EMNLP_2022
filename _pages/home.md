@@ -82,4 +82,4 @@ The [**Conference Program Schedule**](/program/) is now online.
 
 ## Welcome!
 
-EEMNLP 2022 will take place in Abu Dhabi from **December 7th to December 11th, 2022**.
+EMNLP 2022 will take place in Abu Dhabi from **December 7th to December 11th, 2022**.
