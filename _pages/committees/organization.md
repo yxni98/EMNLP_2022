@@ -264,3 +264,102 @@ sidebar:
    institution=""
    email = "izitouni@google.com"
 %}
+
+
+<h2>Local Organizing Committee</h2>
+
+{% include committee-member.html
+   name="Nizar Habash, Chair"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email = "nizar.habash@nyu.edu"
+%}
+
+{% include committee-member.html
+   name="Eric Xing, Co-Chair"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email = "president@mbzuai.ac.ae"
+%}
+
+{% include committee-member.html
+   name="Hanan Aldarmaki"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email = "h-aldarmaki@uaeu.ac.ae"
+%}
+
+{% include committee-member.html
+   name="Bashar Alhafni"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email = "alhafni@nyu.edu"
+%}
+
+{% include committee-member.html
+   name="Tuka Alhanai"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email = "tuka.alhanai@nyu.edu"
+%}
+
+{% include committee-member.html
+   name="Hussein Al-Natsheh"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email = "hal-natsheh@beyond.ai"
+%}
+
+{% include committee-member.html
+   name="Houda Bouamor"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email = "hbouamor@cmu.edu"
+%}
+
+{% include committee-member.html
+   name="Kareem Darwish"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email = "kareem.darwish@aixplain.com"
+%}
+
+{% include committee-member.html
+   name="Go Inoue"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email = "go.inoue@nyu.edu"
+%}
+
+{% include committee-member.html
+   name="Khaled Shaalan"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email = "khaled.shaalan@buid.ac.ae"
+%}
+
+{% include committee-member.html
+   name="Ling Shao"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email = "ling.shao@ieee.org"
+%}
+
+{% include committee-member.html
+   name="Di Wang"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution=""
+   email = "di.wang@ku.ac.ae"
+%}
