@@ -18,7 +18,7 @@ main:
     url: /not_available
 
   - title: "Calls"
-    url: /calls/papers/
+    url: /calls/papers/Overview
     
   - title: "Blog"
     url: /blog/
@@ -72,26 +72,26 @@ program:
 #        url: /sponsors/list/
 
 calls:
-  - title: Call for
+  - title: Call for Papers
     children:
-      - title: "Main Conference Papers"
-        url: /calls/papers/
-      - title: "Industry Track Papers"
-        url: /calls/cs/
-      - title: "System Demonstrations"
-        url: /calls/cs/
-      - title: "Travel Support Requests and Scholarships"
-        url: /calls/cs/
-      - title: "Live Mentoring Sessions at the conference"
-        url: /calls/cs/
-      - title: "Social Events Hosted by D&I Orgs"
-        url: /calls/cs/
-      - title: "Student Volunteers"
-        url: /calls/cs/
-      - title: "Reviewers"
-        url: /calls/cs/
-      - title: "Reviewer Mentors"
-        url: /calls/cs/
+      - title: "Overview"
+        url: /calls/papers/Overview
+      - title: "Important Dates"
+        url: /calls/papers/Important-Dates
+      - title: "Mandatory abstract submission"
+        url: /calls/papers/Mandatory-abstract-submission
+      - title: "Submissions"
+        url: /calls/papers/Submissions
+      - title: "Paper Submission Information"
+        url: /calls/papers/Paper-Submission-Information
+      - title: "Anonymity Period"
+        url: /calls/papers/Anonymity-Period
+      - title: "Instructions For Double-Blind Review"
+        url: /calls/papers/Instructions
+      - title: "Reproducibility Criteria"
+        url: /calls/papers/Reproducibility-Criteria
+      - title: "Presentation Requirement"
+        url: /calls/papers/Presentation-Requirement
   #- title: Submission Material
   #  children:
   #    - title: "Area Descriptions"
@@ -112,10 +112,13 @@ ethics:
     children:
       - title: "Ethics FAQ"
         url: /ethics/faq/
+        disable: False
       - title: "Ethics Review Questions"
         url: /ethics/review-questions/
+        disable: False
       - title: "Ethics Committee"
         url: /ethics/committee/
+        disable: False
 
 reviewer:
   - title: Reviewer
