@@ -24,7 +24,7 @@ color:#CCCCCC
             {%- else -%}
               {%- assign url = link.url | relative_url -%}
             {%- endif -%}
-            {%- if link.title contains 'Blog' or link.title contains 'Committees' or link.title contains 'Venue'-%}
+            {%- if link.title contains 'Blog' or link.title contains 'Committees' or link.title contains 'Venue' or link.title contains 'Calls'-%}
             	<li class="masthead__menu-item">
               	<a href="{{ url }}" {% if link.description %}title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
             	</li>
