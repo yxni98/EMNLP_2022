@@ -42,7 +42,7 @@ main:
     url: /faq/
  
   - title: "Ethics"
-    url: /not_available
+    url: /ethics/faq/
 
 
 program:
@@ -112,13 +112,10 @@ ethics:
     children:
       - title: "Ethics FAQ"
         url: /ethics/faq/
-        disable: False
       - title: "Ethics Review Questions"
         url: /ethics/review-questions/
-        disable: False
       - title: "Ethics Committee"
         url: /ethics/committee/
-        disable: False
 
 reviewer:
   - title: Reviewer
