@@ -5,7 +5,7 @@ permalink: /ethics/review-questions/
 sidebar: 
     nav: "ethics"
 ---
-We ask that _reviewers_ consider the following questions before answering the portions of the review form concerning ethical considerations. We encourage _authors_ to think through these questions and address them (as appropriate) in their submitted papers. Additional advice to authors is available in the [NAACL 2021 Ethics FAQ](/ethics/faq/).
+We ask that _reviewers_ consider the following questions before answering the portions of the review form concerning ethical considerations. We encourage _authors_ to think through these questions and address them (as appropriate) in their submitted papers. Additional advice to authors is available in the [EMNLP 2022 Ethics FAQ](/ethics/faq/).
 
 Please note that this is not an exhaustive list of types of ethical issues that can arise, but rather a set of questions meant to help researchers think through possible adverse impacts. Reviewers who spot concerns unrelated to the questions in this list are encouraged to note them in the review form as well.
 

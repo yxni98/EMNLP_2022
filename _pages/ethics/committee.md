@@ -8,7 +8,9 @@ toc: false
 toc_sticky: true
 toc_icon: "cog"
 ---
-Please note that, in addition to the usual COIs measures, ethics reviewers will not be assigned papers from their country of affiliation in order to limit potential pressure or issues.
+
+Coming soon!
+<!-- Please note that, in addition to the usual COIs measures, ethics reviewers will not be assigned papers from their country of affiliation in order to limit potential pressure or issues.
 
 - Alain Couillault, Association des Professionnels des Industries de la Langue(APIL), Montreuil, France
 - Alvin Grissom II (he/him), Haverford College, Haverford, USA
@@ -47,5 +49,5 @@ Please note that, in addition to the usual COIs measures, ethics reviewers will 
 - Te Rutherford (Te/Te/Te's), Chulalongkorn University, Bangkok, Thailand
 - Thiago Castro Ferreira (he/him), Federal University of Minas Gerais, Belo Horizonte-MG, Brazil
 - Vukosi Marivate (he/him), University of Pretoria, Pretoria, South Africa
-- Wondwossen (he) Mulugeta, School of Information Science, Addis Ababa University, Ethiopia
+- Wondwossen (he) Mulugeta, School of Information Science, Addis Ababa University, Ethiopia -->
 

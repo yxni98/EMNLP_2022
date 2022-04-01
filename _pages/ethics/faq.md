@@ -9,22 +9,22 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
-As announced in the NAACL call for papers, NAACL 2021: 
+As announced in the EMNLP call for papers, EMNLP 2022: 
 
 > _Authors are required to honour the ethical code set out in the [ACM Code of Ethics](https://www.acm.org/code-of-ethics). The consideration of the ethical impact of our research, use of data, and potential applications of our work has always been an important consideration, and as artificial intelligence is becoming more mainstream, these issues are increasingly pertinent. We ask that all authors read the code, and ensure that their work is conformant to this code. We reserve the right to reject papers on ethical grounds, where the authors are judged to have operated counter to the code of ethics, or have inadequately addressed legitimate ethical concerns with their work._
 
-This page provides an FAQ about the ethics review process and guidance to authors for how to address ethical considerations in your NAACL papers. This applies in the first instance to papers submitted to the main conference (including industry track papers and demo papers). We encourage NAACL workshops to follow similar principles.
+This page provides an FAQ about the ethics review process and guidance to authors for how to address ethical considerations in your EMNLP papers. This applies in the first instance to papers submitted to the main conference (including industry track papers and demo papers). We encourage EMNLP workshops to follow similar principles.
 
 
-## How is NAACL 2021 handling ethics review? 
+## How is EMNLP 2022 handling ethics review? 
 
 Ethics review is handled at several levels: 
 
 *   In the CFP and this page: information is given concerning what is expected from the authors and reviewers concerning ethics. 
 
-*   NAACL reviewers are asked to consider the points listed in the [ethics review questions page](/ethics/review-questions/) and then indicate whether a paper should be flagged for further ethics review and, if so, what considerations lead them to that recommendation.
+*   EMNLP reviewers are asked to consider the points listed in the [ethics review questions page](/ethics/review-questions/) and then indicate whether a paper should be flagged for further ethics review and, if so, what considerations lead them to that recommendation.
 
-*   A reviewing committee, dedicated to ethical issues, will review papers flagged as problematic by the reviewers or the ACs during the review process. The committee membership will be listed on the NAACL 2021 webpage.
+*   A reviewing committee, dedicated to ethical issues, will review papers flagged as problematic by the reviewers or the ACs during the review process. The committee membership will be listed on the EMNLP 2022 webpage.
 
 *   The ethics committee will recommend, for each flagged paper whether to accept as is, reject on ethical grounds (with explanation), conditional accept (with specification of what must be addressed). 
 
@@ -33,7 +33,7 @@ Ethics review is handled at several levels:
 *   The ethics committee is available to respond to questions from authors about the feedback they have received. This goes both for papers that were not accepted (for ethical reasons or otherwise), papers accepted as is, and papers conditionally accepted. In the latter case, we are happy to discuss during the preparation of the camera ready papers.
 
 
-## Can papers be rejected from NAACL due to ethical concerns?
+## Can papers be rejected from EMNLP due to ethical concerns?
 
 Yes. 
 
@@ -84,7 +84,7 @@ Here we are concerned with papers involving tasks outside of language, including
 
 ## … if my paper uses demographic or identity characteristics in formation?
 
-Please take care to avoid either attributing (i.e. assigning, without asking) identity characteristics to the people whose language is studied (i.e. guessing their gender, race, nationality, etc) or essentializing identity characteristics (i.e. suggesting that people speak or write a certain way because of their demographic description). We encourage you, wherever possible, to use self-identified characteristics. We understand that that is not always possible. In some cases, it may make sense to reframe the research question so as to avoid attributing identity characteristics. In others, best practice may be to acknowledge the source of the identity characteristic data. In addition, we encourage NAACL authors to consult with their institutional review boards (IRB) or equivalent for input on working with data from human subjects.
+Please take care to avoid either attributing (i.e. assigning, without asking) identity characteristics to the people whose language is studied (i.e. guessing their gender, race, nationality, etc) or essentializing identity characteristics (i.e. suggesting that people speak or write a certain way because of their demographic description). We encourage you, wherever possible, to use self-identified characteristics. We understand that that is not always possible. In some cases, it may make sense to reframe the research question so as to avoid attributing identity characteristics. In others, best practice may be to acknowledge the source of the identity characteristic data. In addition, we encourage EMNLP authors to consult with their institutional review boards (IRB) or equivalent for input on working with data from human subjects.
 
 Please do be sure to motivate the range of values used for identity characteristics in terms of how they relate to the research question and to discuss the ethical implications of categorizing people, either in training datasets or in the deployment of the technology. For further discussion of this point as it pertains to gender specifically, see [Larson 2017](https://www.aclweb.org/anthology/W17-1601/).
 
