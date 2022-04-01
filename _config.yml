@@ -38,7 +38,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : _pages/home.md # blank (default) uses feed.xml
-search                   : true
+search                   : false
 search_full_content      : # true, false (default)
 search_provider          : "google"
 algolia:
