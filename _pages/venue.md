@@ -198,6 +198,14 @@ To find out more, please visit [here](https://www.visitdubai.com/).
 
 ![dubai]({{ site.baseurl }}/assets/images/abu_dhabi/burj-khalifa_01.jpeg)
 
+### Sharjah
+
+Sharjah is the third largest Emirate, it is only ~165km (1 hour and 50 minutes by car) away from Abu Dhabi.
+It is a major cultural hub in the UAE, there is also a wide variety of activities awaiting.
+To find out more, please visit the city's guide [here](https://www.visitsharjah.com/en/regions/sharjah-city/).
+
+![sharjah]({{ site.baseurl }}/assets/images/abu_dhabi/sharjah_01.jpg)
+
 ## Important Information
 
 **Climate**
